@@ -1,7 +1,7 @@
 /**
  * @name Dark Omen Loop
  * @author DTACat, WNTIV
- * @version 1.0.1
+ * @version 1.1.0
  * @description Loops The Dark Omen Profile Effect Intro.
  * @source https://github.com/DTACat/Dark-Omen-Loop-Discord-Theme
  * @website https://sites.google.com/view/goofytests/home-page
@@ -16,6 +16,7 @@
 [id^="popout"] .inner__39f40,
 .focusLock__10aa5 .inner__39f40 {
     scale: 1;
+    /*change the link under this to the link of an image/gif you want to be your profile effect (you will need any profile effect equipped on your profile for this to take effect)*/
     background-image: url(https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png);
     background-size: 100% auto;
     background-repeat: no-repeat;
