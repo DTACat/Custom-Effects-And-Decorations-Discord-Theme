@@ -19,9 +19,9 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zomb
 
 _
 
-Dark Omens (Default)
+Dark Omens
 
-intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png (Default)
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/loop.png
 
