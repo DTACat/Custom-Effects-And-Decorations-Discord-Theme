@@ -1,6 +1,5 @@
 # Dark-Omen-Loop-Discord-Theme
-Loops The Dark Omen Profile Effect Intro.
-Here is a list of links for different profile effects
+Loops The Dark Omen Profile Effect Intro. Here is a list of links for different profile effects you can change it too.
 
 _
 
@@ -30,9 +29,9 @@ _
 
 Fall Foliage
 
-intro1: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch.png
+intro-branch: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch.png
 
-intro2: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-leaves.png
+intro-leaves: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-leaves.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/loop.png
 
@@ -64,9 +63,9 @@ _
 
 Mystic Vines
 
-intro1: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro.png
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro.png
 
-intro2: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro-glow.png
+intro-glow: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro-glow.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/loop.png
 
