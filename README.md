@@ -2,107 +2,94 @@
 Loops The Dark Omen Profile Effect Intro.
 Here is a list of links for different profile effects
 
-
-ghoulish graffiti
+-
+Ghoulish Graffiti
 
 inrto: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/loop.png
-
-
-zombie slime
+-
+Zombie Slime
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/loop.png
-
-
-dark omens
+-
+Dark Omens
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/loop.png
-
-
-fall foliage
+-
+Fall Foliage
 
 intro1: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch.png
 
 intro2: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-leaves.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/loop.png
-
-lilypad life
+-
+Lilypad Life
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/loop.png
-
-
-hydro blast
+-
+Hydro Blast
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/loop.png
-
-
-sakura dreams
+-
+Sakura Dreams
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/sakura/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/sakura/loop.png
-
-
-mystic vines
+-
+Mystic Vines
 
 intro1: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro.png
 
 intro2: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro-glow.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/loop.png
-
-
-pixie dust
+-
+Pixie Dust
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop.png
-
-
-magic hearts
+-
+Magic Hearts
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/loop.png
-
-
-shater
+-
+Shater
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/earthquake/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/earthquake/loop.png
-
-
-shuriken strike
+-
+Shuriken Strike
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/shuriken/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/shuriken/loop.png
-
-
-power surge
+-
+Power Surge
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/loop.png
-
-
-discord-Os
+-
+Discord-Os
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/loop.png
-
-
-breakfast plate
+-
+Breakfast Plate
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/intro.png
 
