@@ -117,7 +117,7 @@ replace the
 
 "--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png");"
 
-with
+on line 18, with
 
 "	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/sakura/intro.png"), url("https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/sakura/loop.png");"
 
