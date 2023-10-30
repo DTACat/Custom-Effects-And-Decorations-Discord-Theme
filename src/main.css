@@ -8,6 +8,10 @@
  * @invite 7SBn9qzwxC
  */
 
+* {
+	border: 1px solid red;
+}
+
 [id^="popout"] img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"],
 .focusLock__10aa5 img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"] {
     display: none
