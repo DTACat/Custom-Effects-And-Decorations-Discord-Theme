@@ -9,19 +9,21 @@
  */
 
 [id^="popout"] img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"],
-.focusLock__10aa5 img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"] {
+[class^="profilePanel"] img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"],
+[class^="focusLock"] img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"] {
     display: none
 }
 
-[id^="popout"] .inner__39f40,
-.focusLock__10aa5 .inner__39f40 {
+[id^="popout"] *[class^="inner"],
+[class^="profilePanel"] *[class^="inner"],
+[class^="focusLock"] *[class^="inner"] {
     scale: 1;
     background-image: var(--profile-effect-image);
     background-size: 100% auto;
     background-repeat: no-repeat;
 }
 
-.focusLock__10aa5 .inner__39f40 {
+[class^="focusLock"] *[class^="inner"] {
     background-size: cover;
     background-position: 0px 0px;
 }
