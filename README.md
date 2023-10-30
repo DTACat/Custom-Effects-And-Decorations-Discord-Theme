@@ -10,7 +10,7 @@ Here is a list of links for different profile effects you can change it too.
 <details>
 <summary>Preview</summary>
 
-![image](https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/intro.png)
+![image](https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/thumbnail.png)
 
 </details>
 
@@ -56,7 +56,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/l
 <details>
 <summary>Preview</summary>
 
-![image](https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/intro.png)
+![image](https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/thumbnail.png)
 
 </details>
 
