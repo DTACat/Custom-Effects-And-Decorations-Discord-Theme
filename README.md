@@ -3,8 +3,6 @@ Loops The Dark Omen Profile Effect Intro. Here is a list of links for different 
 
 ## Ghoulish Graffiti
 
-![image](https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/intro.png)
-
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/loop.png
