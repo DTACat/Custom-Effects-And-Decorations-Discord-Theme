@@ -7,6 +7,8 @@ Here is a list of links for different profile effects you can change it too.
 
 # Halloween
 
+Fright and delight your friends, strangers and friendly strangers.
+
 ## Ghoulish Graffiti
 
 <details>
@@ -45,6 +47,10 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zomb
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png (Default)
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/loop.png
+
+# Fall
+
+There’s a calm and cosy vibe in the air.
 
 ## Fall Foliage
 
