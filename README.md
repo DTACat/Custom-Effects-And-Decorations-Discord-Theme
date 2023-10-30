@@ -33,6 +33,14 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zomb
 
 ## Dark Omens
 
+<details>
+<summary>Preview</summary>
+
+![image](https://github.com/DTACat/Dark-Omen-Loop-Discord-Theme/assets/141873540/adcf4a0b-cb53-467f-8ea0-82e29d2841df)
+
+
+</details>
+
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png (Default)
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/loop.png
