@@ -10,7 +10,7 @@ Here is a list of links for different profile effects you can change it too.
 <details>
 <summary>Preview</summary>
 
-![image](https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/thumbnail.png)
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168675883779903669/punk-girl_intro.png)
 
 </details>
 
