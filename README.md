@@ -39,6 +39,13 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/l
 
 ## Hydro Blast
 
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/thumbnail.png)
+
+</details>
+
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/loop.png
