@@ -8,7 +8,7 @@
  * @invite 7SBn9qzwxC
  */
 
-@import("https://raw.githubusercontent.com/DTACat/Dark-Omen-Loop-Discord-Theme/main/src/main.css")
+@import url('https://raw.githubusercontent.com/DTACat/Dark-Omen-Loop-Discord-Theme/main/src/main.css');
 
 :root {
 	/**
