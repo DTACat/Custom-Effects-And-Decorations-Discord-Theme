@@ -5,6 +5,8 @@ Loops The Dark Omen Profile Effect Intro.
 
 Here is a list of links for different profile effects you can change it too.
 
+# Halloween
+
 ## Ghoulish Graffiti
 
 <details>
