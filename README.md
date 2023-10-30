@@ -42,7 +42,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/l
 <details>
 <summary>Preview</summary>
 
-![image](https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/thumbnail.png)
+![image](https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/intro.png)
 
 </details>
 
