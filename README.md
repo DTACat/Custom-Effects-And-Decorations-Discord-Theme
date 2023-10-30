@@ -110,7 +110,20 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/sakur
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/sakura/loop.png
 
-## Mystic Vines
+<details>
+<summary>Help</summary>
+
+replace the
+
+"--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png");"
+
+with
+
+"	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/sakura/intro.png"), url("https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/sakura/loop.png");"
+
+</details>
+
+## Mystic Vines (Broken)
 
 <details>
 <summary>Preview</summary>
@@ -153,7 +166,7 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/mag
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/loop.png
 
-## Shater
+## Shater (Broken)
 
 <details>
 <summary>Preview</summary>
@@ -166,7 +179,7 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/earth
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/earthquake/loop.png
 
-## Shuriken Strike
+## Shuriken Strike (Broken)
 
 <details>
 <summary>Preview</summary>
