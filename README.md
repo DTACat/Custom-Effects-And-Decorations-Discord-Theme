@@ -115,9 +115,23 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines
 
 ## Pixie Dust
 
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168682923826880693/fairy_thumbnail.png)
+
+</details>
+
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop.png
 
 ## Magic Hearts
+
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168683394004172871/magic-girl_thumbnail.png)
+
+</details>
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/intro.png
 
