@@ -7,11 +7,25 @@ Here is a list of links for different profile effects you can change it too.
 
 ## Ghoulish Graffiti
 
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/intro.png)
+
+</details>
+
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/loop.png
 
 ## Zombie Slime
+
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/intro.png)
+
+</details>
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/intro.png
 
