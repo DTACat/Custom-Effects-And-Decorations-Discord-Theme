@@ -36,8 +36,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zomb
 <details>
 <summary>Preview</summary>
 
-![image](https://github.com/DTACat/Dark-Omen-Loop-Discord-Theme/assets/141873540/adcf4a0b-cb53-467f-8ea0-82e29d2841df)
-
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168677979728126032/ghost-skull_thumbnail.png)
 
 </details>
 
@@ -47,6 +46,13 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghos
 
 ## Fall Foliage
 
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168678906723835934/leaves_thumbnail.png)
+
+</details>
+
 intro-branch: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-branch.png
 
 intro-leaves: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/intro-leaves.png
@@ -54,6 +60,13 @@ intro-leaves: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leaves/loop.png
 
 ## Lilypad Life
+
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168679507025215538/rain_thumbnail.png)
+
+</details>
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro.png
 
@@ -74,11 +87,25 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/spla
 
 ## Sakura Dreams
 
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168680403700306001/sakura_thumbnail.png)
+
+</details>
+
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/sakura/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/sakura/loop.png
 
 ## Mystic Vines
+
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168681969522053153/vines_thumbnail.png)
+
+</details>
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro.png
 
