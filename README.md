@@ -80,6 +80,10 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/loop.png
 
+# Fantasy
+
+You’re walking in the forest and notice something magical and shiny.
+
 ## Hydro Blast
 
 <details>
@@ -132,6 +136,10 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop.png
 
+# Anime
+
+Senpai will definitely notice you.
+
 ## Magic Hearts
 
 <details>
@@ -162,6 +170,10 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/shur
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/loop.png
+
+# Breakfast
+
+Breakfast is definitely the most important meal of the day.
 
 ## Discord-Os
 
