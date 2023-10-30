@@ -1,9 +1,7 @@
 # Dark-Omen-Loop-Discord-Theme
 Loops The Dark Omen Profile Effect Intro. Here is a list of links for different profile effects you can change it too.
 
-_
-
-Ghoulish Graffiti
+## Ghoulish Graffiti
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/intro.png
 
