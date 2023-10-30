@@ -123,7 +123,7 @@ on line 18, with
 
 </details>
 
-## Mystic Vines (Broken)
+## Mystic Vines
 
 <details>
 <summary>Preview</summary>
