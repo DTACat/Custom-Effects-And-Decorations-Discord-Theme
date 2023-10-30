@@ -155,17 +155,38 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magi
 
 ## Shater
 
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168687326910763058/earthquake_thumbnail.png)
+
+</details>
+
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/earthquake/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/earthquake/loop.png
 
 ## Shuriken Strike
 
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168687913681301545/shuriken_thumbnail.png)
+
+</details>
+
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/shuriken/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/shuriken/loop.png
 
 ## Power Surge
+
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168688411410976838/sayan_thumbnail.png)
+
+</details>
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/intro.png
 
@@ -177,11 +198,25 @@ Breakfast is definitely the most important meal of the day.
 
 ## Discord-Os
 
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168688798805278830/cereal_thumbnail.png)
+
+</details>
+
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/loop.png
 
 ## Breakfast Plate
+
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168690243659120670/plate_thumbnail.png)
+
+</details>
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/intro.png
 
