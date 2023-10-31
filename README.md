@@ -2,7 +2,6 @@
 Loops The Dark Omen Profile Effect Intro.
 
 ![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168426639038873600/Untitled_video_-_Made_with_Clipchamp_23.gif)
-
 ![Untitled video - Made with Clipchamp (24)](https://github.com/DTACat/Dark-Omen-Loop-Discord-Theme/assets/141873540/7ed36a53-064c-4b03-94ff-c892be024e85)
 
 Here is a list of links for different profile effects you can change it too.
