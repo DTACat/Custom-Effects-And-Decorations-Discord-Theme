@@ -48,7 +48,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zomb
 
 </details>
 
-intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png (Default)
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/loop.png
 
