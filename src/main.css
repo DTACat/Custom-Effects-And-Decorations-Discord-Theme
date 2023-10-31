@@ -8,13 +8,13 @@
  * @invite 7SBn9qzwxC
  */
 
-[id^="popout"] img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"],
+[class^="userPopout"] img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"],
 [class^="profilePanel"] img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"],
 [class^="focusLock"] img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"] {
     display: none
 }
 
-[id^="popout"] *[class^="profileEffects"] *[class^="inner"],
+[class^="userPopout"] *[class^="profileEffects"] *[class^="inner"],
 [class^="profilePanel"] *[class^="profileEffects"] *[class^="inner"],
 [class^="focusLock"] *[class^="profileEffects"] *[class^="inner"] {
     scale: 1;
