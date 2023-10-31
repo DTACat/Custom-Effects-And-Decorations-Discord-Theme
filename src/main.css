@@ -14,16 +14,16 @@
     display: none
 }
 
-[id^="popout"] *[class^="inner"],
-[class^="profilePanel"] *[class^="inner"],
-[class^="focusLock"] *[class^="inner"] {
+[id^="popout"] *[class^="profileEffects"] *[class^="inner"],
+[class^="profilePanel"] *[class^="profileEffects"] *[class^="inner"],
+[class^="focusLock"] *[class^="profileEffects"] *[class^="inner"] {
     scale: 1;
     background-image: var(--profile-effect-image);
     background-size: 100% auto;
     background-repeat: no-repeat;
 }
 
-[class^="focusLock"] *[class^="inner"] {
+[class^="focusLock"] *[class^="profileEffects"] *[class^="inner"] {
     background-size: cover;
     background-position: 0px 0px;
 }
