@@ -247,3 +247,17 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/loop.png
+
+
+
+<details>
+<summary>Preview</summary>
+
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168676512447352913/splash_thumbnail.png)
+
+</details>
+
+</details>
