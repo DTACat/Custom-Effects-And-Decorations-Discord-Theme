@@ -15,11 +15,11 @@
 	 * Change the URL below to the link of an image/gif you want to be your profile effect
 	 * (you will need any profile effect equipped on your profile for this to take effect)
 	 */
-	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png");
+	--profile-effect-image: url("https://media.discordapp.net/attachments/1136130967128514613/1168713612425170964/image.png");
 }
 
-/* User-specific overrides */
-[aria-label="yanoimcat"] {
+/* User-specific overrides (copy/paste template and replace <unique-username>) */
+[aria-label="<unique-username>"] {
 	/* The URL for the profile effect override this user should have */
-	--profile-effect-image: url("https://media.discordapp.net/attachments/1136130967128514613/1168713612425170964/image.png");
+	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png");
 }
