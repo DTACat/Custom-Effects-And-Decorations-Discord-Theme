@@ -253,3 +253,21 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/loop.png
 
 </details>
+
+<details>
+<summary>Custom Made</summary>
+
+# DTACat
+
+## DTACat
+
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168721520667918447/DTACat_thumbnail.png)
+
+</details>
+
+image: https://cdn.discordapp.com/attachments/1136130967128514613/1168713612425170964/image.png
+
+</details>
