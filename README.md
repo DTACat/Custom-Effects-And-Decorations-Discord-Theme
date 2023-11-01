@@ -298,13 +298,21 @@ Here is a list of links for different Avatar Decorations you can change it too.
 
 # Halloween
 
-Graveyard Cat: https://cdn.discordapp.com/avatar-decoration-presets/a_ad4e2cad924bbb3a2fddf5c527370479.png?size=240&passthrough=true
+## Graveyard Cat: 
 
-Ghosts: https://cdn.discordapp.com/avatar-decoration-presets/a_b9a64088e30fd3a6f2456c2e0f44f173.png?size=240&passthrough=true
+https://cdn.discordapp.com/avatar-decoration-presets/a_ad4e2cad924bbb3a2fddf5c527370479.png?size=240&passthrough=true
 
-Minions: https://cdn.discordapp.com/avatar-decoration-presets/a_f979ba5f9c2ba83db3149cc02f489f7c.png?size=240&passthrough=true
+## Ghosts: 
 
-Jack-o'-lantern: https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480b0eb3e1.png?size=240&passthrough=true
+https://cdn.discordapp.com/avatar-decoration-presets/a_b9a64088e30fd3a6f2456c2e0f44f173.png?size=240&passthrough=true
+
+## Minions: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_f979ba5f9c2ba83db3149cc02f489f7c.png?size=240&passthrough=true
+
+## Jack-o'-lantern: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480b0eb3e1.png?size=240&passthrough=true
 
 # Fall
 
