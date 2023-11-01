@@ -266,6 +266,17 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/
 <details>
 <summary>Preview</summary>
 
+![image](https://github.com/DTACat/Custom-Profile-Effects-Discord-Theme/assets/141873540/44a04b46-26a4-45b2-b70d-e80502123b83)
+
+</details>
+
+image: https://media.discordapp.net/attachments/1136130967128514613/1169088009329709166/DTACatEffect.png
+
+## DTACat Old
+
+<details>
+<summary>Preview</summary>
+
 ![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168721520667918447/DTACat_thumbnail.png)
 
 </details>
