@@ -28,6 +28,11 @@
 	background-image: var(--profile-effect-image);
 	background-size: 100% auto;
 	background-repeat: no-repeat;
+	top: 0;
+	left: 0;
+	width: 100%;
+	position: absolute;
+}
 }
 
 img[class^="avatarDecoration"],
