@@ -8,24 +8,26 @@
  * @invite 7SBn9qzwxC
  */
 
-[class^="userPopout"] img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"],
-[class^="profilePanel"] img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"],
-[class^="focusLock"] img[src^="https://cdn.discordapp.com/assets/profile_effects/effects/"] {
-    display: none
+@property --profile-effect-image {
+	syntax: "<image>";
+	inherits: true;
+	initial-value: url("https://cdn.discordapp.com/attachments/1136130967128514613/1169088009329709166/DTACatEffect.png");
 }
 
-[class^="userPopout"] *[class^="profileEffects"] *[class^="inner"],
-[class^="profilePanel"] *[class^="profileEffects"] *[class^="inner"],
-[class^="focusLock"] *[class^="profileEffects"] *[class^="inner"] {
-    scale: 1;
-    background-image: var(--profile-effect-image);
-    background-size: 100% auto;
-    background-repeat: no-repeat;
+@property --avatar-decoration-image {
+	syntax: "<image>";
+	inherits: true;
+	initial-value: url("https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df0830d153b.png?size=160&passthrough=true");
 }
 
-[class^="focusLock"] *[class^="profileEffects"] *[class^="inner"] {
-    background-size: cover;
-    background-position: 0px 0px;
+:not([class^="previewContainer"]) > * > [class^="profileEffects"] img {
+	object-position: 9999px;
+}
+
+:not([class^="previewContainer"]) > * > [class^="profileEffects"] img:first-of-type {
+	background-image: var(--profile-effect-image);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
 }
 
 img[class^="avatarDecoration"],
@@ -34,4 +36,3 @@ img[class^="avatarDecoration"],
 	background-image: var(--avatar-decoration-image);
 	background-size: cover;
 }
-
