@@ -440,4 +440,15 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df08
 
 image: https://cdn.discordapp.com/attachments/1136130967128514613/1169098455667441725/DTACatAvatarDeco.png
 
+## Cat Ears
+
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1169159581109334036/CatEarDeco.png)
+
+</details>
+
+image: https://cdn.discordapp.com/attachments/1136130967128514613/1169159581109334036/CatEarDeco.png
+
 </details>
