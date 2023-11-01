@@ -289,6 +289,7 @@ image: https://cdn.discordapp.com/attachments/1136130967128514613/11687136124251
 Displays A Custom Avatar Decoration.
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/374b89df-d87f-4801-81d9-1979efc83780)
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/ae7acaa3-2dc8-4dd2-91aa-2e09ed398691)
 
 Here is a list of links for different Avatar Decorations you can change it too.
 
