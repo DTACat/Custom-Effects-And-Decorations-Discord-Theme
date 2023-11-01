@@ -290,3 +290,76 @@ Displays A Custom Avatar Decoration.
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/374b89df-d87f-4801-81d9-1979efc83780)
 
+Here is a list of links for different Avatar Decorations you can change it too.
+
+<details>
+  
+<summary>Discord Official</summary>
+
+# Halloween
+
+Graveyard Cat: https://cdn.discordapp.com/avatar-decoration-presets/a_ad4e2cad924bbb3a2fddf5c527370479.png?size=240&passthrough=true
+
+Ghosts: https://cdn.discordapp.com/avatar-decoration-presets/a_b9a64088e30fd3a6f2456c2e0f44f173.png?size=240&passthrough=true
+
+Minions: https://cdn.discordapp.com/avatar-decoration-presets/a_f979ba5f9c2ba83db3149cc02f489f7c.png?size=240&passthrough=true
+
+Jack-o'-lantern: https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480b0eb3e1.png?size=240&passthrough=true
+
+# Fall
+
+Autumn Leavs: https://cdn.discordapp.com/avatar-decoration-presets/a_5087f7f988bd1b2819cac3e33d0150f5.png?size=240&passthrough=true
+
+Pumpkin Spice: https://cdn.discordapp.com/avatar-decoration-presets/a_145dffeb81bcfff96be683fd9f6db20a.png?size=240&passthrough=true
+
+Frog Hat: https://cdn.discordapp.com/avatar-decoration-presets/a_4936aa6c33a101b593f9607d48d686ec.png?size=160&passthrough=true
+
+Fox Hat: https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d2ef05e4.png?size=160&passthrough=true
+
+
+Flaming Sword: https://cdn.discordapp.com/avatar-decoration-presets/a_0f5d6c4dd8ae74662ee9c40722a56cbd.png?size=160&passthrough=true
+
+Magical Potion: https://cdn.discordapp.com/avatar-decoration-presets/a_1dbc603c181999b9815cb426dfec71a6.png?size=160&passthrough=true
+
+Fairy Sprites: https://cdn.discordapp.com/avatar-decoration-presets/a_fe3c76cac2adf426832a7e495e8329d3.png?size=160&passthrough=true
+
+Wizard's Staff: https://cdn.discordapp.com/avatar-decoration-presets/a_db9baf0ba7cf449d2b027c06309dbe8d.png?size=160&passthrough=true
+
+Glowing Rune: https://cdn.discordapp.com/avatar-decoration-presets/a_d650e22f6c4bab4fc0969e9d35edbcb0.png?size=160&passthrough=true
+
+Defensive Shield: https://cdn.discordapp.com/avatar-decoration-presets/a_29a0533cb3de61aa8179810188f3830d.png?size=160&passthrough=true
+
+Skull Medallion: https://cdn.discordapp.com/avatar-decoration-presets/a_9d67a1cbf81fe7197c871e94f619b04b.png?size=160&passthrough=true
+
+Treasure and Key: https://cdn.discordapp.com/avatar-decoration-presets/a_4c9f2ec29c05755456dbce45d8190ed4.png?size=160&passthrough=true
+
+
+Radiating Energy: https://cdn.discordapp.com/avatar-decoration-presets/a_c7e1751e8122f1b475cb3006966fb28c.png?size=160&passthrough=true
+
+Soul Leaving Body: https://cdn.discordapp.com/avatar-decoration-presets/a_c3c09bd122898be35093d0d59850f627.png?size=160&passthrough=true
+
+Sweat Drops: https://cdn.discordapp.com/avatar-decoration-presets/a_55c9d0354290afa8b7fe47ea9bd7dbcf.png?size=160&passthrough=true
+
+Starry-Eyed: https://cdn.discordapp.com/avatar-decoration-presets/a_d72066b8cecbadd9fc951913ebcc384f.png?size=160&passthrough=true
+
+In Love: https://cdn.discordapp.com/avatar-decoration-presets/a_8ffa2ba9bff18e96b76c2e66fd0d7fa3.png?size=160&passthrough=true
+
+Shocked: https://cdn.discordapp.com/avatar-decoration-presets/a_f1b2fd4706ab02b54d3a58f84b3ef564.png?size=160&passthrough=true
+
+Angry: https://cdn.discordapp.com/avatar-decoration-presets/a_3c97a2d37f433a7913a1c7b7a735d000.png?size=160&passthrough=true
+
+
+Toast: https://cdn.discordapp.com/avatar-decoration-presets/a_911e48f3a695c7f6c267843ab6a96f2f.png?size=160&passthrough=true
+
+Morning Coffee: https://cdn.discordapp.com/avatar-decoration-presets/a_aa2e1c2b3cf05b24f6ec7b8b4141f5fc.png?size=160&passthrough=true
+
+Fried Egg: https://cdn.discordapp.com/avatar-decoration-presets/a_9b7b74e72efe1bc5a6beddced3da3c0f.png?size=160&passthrough=true
+
+Blueberry Jam: https://cdn.discordapp.com/avatar-decoration-presets/a_faaa56d945e2d0f6c41cf940d122cb9e.png?size=160&passthrough=true
+
+Doughnut: https://cdn.discordapp.com/avatar-decoration-presets/a_8b0d858b65a81ea0c537091a4650a6d4.png?size=160&passthrough=true
+
+Pancakes: https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df0830d153b.png?size=160&passthrough=true
+
+</details>
+
