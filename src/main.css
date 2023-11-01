@@ -28,8 +28,9 @@
     background-position: 0px 0px;
 }
 
-img[class^="avatarDecoration"] {
-	object-fit: none;
+img[class^="avatarDecoration"],
+[class^="avatarDecoration"] img {
+	object-position: 9999px;
 	background-image: var(--avatar-decoration-image);
 	background-size: cover;
 }
