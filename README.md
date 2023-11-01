@@ -1,4 +1,4 @@
-# Custom-Profile-Effects
+# Custom Profile Effects
 Displays A Custom Profile Effect.
 
 ![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168426639038873600/Untitled_video_-_Made_with_Clipchamp_23.gif?ex=6551b91b&is=653f441b&hm=2ef2263a113594fac348248d0e3f14c12c421aa3a38d98af36bda5ceef6a9f69&)
@@ -284,3 +284,7 @@ image: https://media.discordapp.net/attachments/1136130967128514613/116908800932
 image: https://cdn.discordapp.com/attachments/1136130967128514613/1168713612425170964/image.png
 
 </details>
+
+
+
+# Custom Avatar Decorations
