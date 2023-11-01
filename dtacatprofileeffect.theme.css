@@ -16,6 +16,7 @@
 	 * (you will need any profile effect equipped on your profile for this to take effect)
 	 */
 	--profile-effect-image: url("https://cdn.discordapp.com/attachments/1136130967128514613/1169088009329709166/DTACatEffect.png");
+	--avatar-decoration-image: url("https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df0830d153b.png?size=160&passthrough=true");
 }
 
 /* User-specific overrides (copy/paste template and replace <unique-username>) */
