@@ -434,10 +434,10 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df08
 <details>
 <summary>Preview</summary>
 
-![image](https://github.com/DTACat/Custom-Profile-Effects-Discord-Theme/assets/141873540/44a04b46-26a4-45b2-b70d-e80502123b83)
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1169098455667441725/DTACatAvatarDeco.png)
 
 </details>
 
-image: https://media.discordapp.net/attachments/1136130967128514613/1169088009329709166/DTACatEffect.png
+image: https://cdn.discordapp.com/attachments/1136130967128514613/1169098455667441725/DTACatAvatarDeco.png
 
 </details>
