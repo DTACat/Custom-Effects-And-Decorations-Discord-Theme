@@ -283,6 +283,12 @@ image: https://media.discordapp.net/attachments/1136130967128514613/116908800932
 
 image: https://cdn.discordapp.com/attachments/1136130967128514613/1168713612425170964/image.png
 
+# Want your custom made profile effects here?
+
+Submit your profile effect on the discord server.
+
+https://discord.gg/7SBn9qzwxC
+
 </details>
 
 # Custom Avatar Decorations
@@ -451,5 +457,11 @@ image: https://cdn.discordapp.com/attachments/1136130967128514613/11690984556674
 </details>
 
 image: https://cdn.discordapp.com/attachments/1136130967128514613/1169159581109334036/CatEarDeco.png
+
+# Want your custom made avatar decorations here?
+
+Submit your avatar decoration on the discord server.
+
+https://discord.gg/7SBn9qzwxC
 
 </details>
