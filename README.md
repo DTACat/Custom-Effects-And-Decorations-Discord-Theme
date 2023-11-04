@@ -4,6 +4,7 @@ Displays A Custom Profile Effect.
 ![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168426639038873600/Untitled_video_-_Made_with_Clipchamp_23.gif?ex=6551b91b&is=653f441b&hm=2ef2263a113594fac348248d0e3f14c12c421aa3a38d98af36bda5ceef6a9f69&)
 ![image](https://github.com/DTACat/Custom-Profile-Effects-Discord-Theme/assets/141873540/570705cf-e5c4-43fc-b337-5cace94f223a)
 ![Untitled video - Made with Clipchamp (24)](https://github.com/DTACat/Dark-Omen-Loop-Discord-Theme/assets/141873540/7ed36a53-064c-4b03-94ff-c892be024e85)
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/b3bfea1b-a004-4048-904d-df04523387e3)
 
 Here is a list of links for different profile effects you can change it too.
 
