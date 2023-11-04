@@ -20,13 +20,13 @@ A clear and concise description of what the bug is.
 **To Reproduce**
 Steps to reproduce the behavior:
 
-1. 
+-1
 
-2. 
+-2
 
-3.
+-3
 
-4. See error
+-4 See error
 
 
 **Expected behavior**
