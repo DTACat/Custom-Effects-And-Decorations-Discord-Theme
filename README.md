@@ -281,6 +281,8 @@ image: https://media.discordapp.net/attachments/1136130967128514613/116908800932
 
 </details>
 
+image: https://media.discordapp.net/attachments/1136130967128514613/1168713612425170964/image.png
+
 # UwU
 
 ## Heart
