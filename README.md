@@ -281,7 +281,18 @@ image: https://media.discordapp.net/attachments/1136130967128514613/116908800932
 
 </details>
 
-image: https://cdn.discordapp.com/attachments/1136130967128514613/1168713612425170964/image.png
+# ≽ܫ≼
+
+## Heart
+
+<details>
+<summary>Preview</summary>
+
+![image](https://media.discordapp.net/attachments/1136130967128514613/1170228593457102909/image.png)
+
+</details>
+
+image: https://cdn.discordapp.com/attachments/1136130967128514613/1170217397823754320/Frame_6.png
 
 # Want your custom made profile effects here?
 
@@ -465,5 +476,5 @@ Submit your avatar decoration on the discord server.
 https://discord.gg/7SBn9qzwxC
 
 </details>
-≽ܫ≼
+
 
