@@ -254,7 +254,7 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/loop.png
 
-# Nitro
+# Disxcore
 
 ## Boost Relic
 
