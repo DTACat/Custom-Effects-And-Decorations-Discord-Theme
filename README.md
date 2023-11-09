@@ -254,6 +254,34 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/loop.png
 
+# Nitro
+
+## Boost Relic
+
+<details>
+<summary>Preview</summary>
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/3e1219ce-7b42-46db-ba29-c00c157bc3b7)
+
+</details>
+
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/boost-relic/intro.png
+
+loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/boost-relic/loop.png
+
+## Cyberspace
+
+<details>
+<summary>Preview</summary>
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/2bdb9d75-fa42-456c-8544-0470eb8b5633)
+
+</details>
+
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cyberspace/intro.png
+
+loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cyberspace/loop.png
+
 </details>
 
 <details>
