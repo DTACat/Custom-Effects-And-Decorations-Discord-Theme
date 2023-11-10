@@ -272,6 +272,19 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/loop.png
 
+# Effect Preview (Remake)
+
+## Energy Effect
+
+<details>
+<summary>Preview</summary>
+
+![image](https://cdn.discordapp.com/attachments/1136130967128514613/1172633523614666913/image.png)
+
+</details>
+
+intro: https://cdn.discordapp.com/attachments/1136130967128514613/1172632400040316978/Energy_Effect_Remake.png
+
 # Disxcore
 
 ## Boost Relic
