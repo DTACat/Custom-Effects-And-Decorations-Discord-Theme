@@ -41,19 +41,21 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zom
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/loop.png
 
-### Blue
+### Blue (Custom)
 
 intro: https://cdn.discordapp.com/attachments/1136130967128514613/1172414568270659644/Blue_Zombie_Intro.gif
 
 loop: https://cdn.discordapp.com/attachments/1136130967128514613/1172416315680641024/Blue_Zombie_Loop.gif
 
-### Red
+### Red (Custom)
 
-red intro: https://cdn.discordapp.com/attachments/1136130967128514613/1172414969455841330/Red_Zombie_Intro.gif
+intro: https://cdn.discordapp.com/attachments/1136130967128514613/1172414969455841330/Red_Zombie_Intro.gif
 
-### Purple
+### Purple (Custom)
 
-purple intro: https://cdn.discordapp.com/attachments/1136130967128514613/1172415738372427836/Purple_Zombie_Intro.gif
+intro: https://cdn.discordapp.com/attachments/1136130967128514613/1172415738372427836/Purple_Zombie_Intro.gif
+
+loop: https://cdn.discordapp.com/attachments/1136130967128514613/1172417045732802621/Purple_Zombie_Loop.gif
 
 ## Dark Omens
 
