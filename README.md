@@ -517,6 +517,10 @@ yellow: https://cdn.discordapp.com/avatar-decoration-presets/a_10b9f886b513b77cc
 
 purple (Broken): https://cdn.discordapp.com/attachments/1136130967128514613/1172424440634683474/Smoke_Purple.gif
 
+## Saw (Re-Make)
+
+saw: https://cdn.discordapp.com/attachments/1136130967128514613/1172431215870091285/Saw.png
+
 Sorry, can't get all of them :(
 
 </details>
