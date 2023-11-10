@@ -491,6 +491,37 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df08
 </details>
 
 <details>
+<summary>Discord 8th Birthday</summary>
+
+## Headset
+
+blue: https://cdn.discordapp.com/attachments/1136130967128514613/1172419779601109042/DISXCOREHeadset_Blue.gif
+
+yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172419779945050153/DISXCOREHeadset_Yellow.gif
+
+purple: https://cdn.discordapp.com/attachments/1136130967128514613/1172419780234465360/DISXCOREHeadset_Perple.gif
+
+## Futuristic UI
+
+blue: https://cdn.discordapp.com/attachments/1136130967128514613/1172422277896359968/Blue_UI.gif
+
+yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172422278248665120/Yellow_UI.gif
+
+purple: https://cdn.discordapp.com/attachments/1136130967128514613/1172422277514666054/Purple_UI.gif
+
+## Smoke (Broken)
+
+blue: https://cdn.discordapp.com/attachments/1136130967128514613/1172424441016373258/Smoke_Blue.gif
+
+yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172424441339318312/Smoke_Yellow.gif
+
+purple: https://cdn.discordapp.com/attachments/1136130967128514613/1172424440634683474/Smoke_Purple.gif
+
+Sorry, can't get all of them :(
+
+</details>
+
+<details>
 <summary>Custom Made</summary>
 
 # DTACat
