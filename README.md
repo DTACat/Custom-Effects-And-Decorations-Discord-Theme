@@ -51,6 +51,8 @@ loop: https://cdn.discordapp.com/attachments/1136130967128514613/117241631568064
 
 intro: https://cdn.discordapp.com/attachments/1136130967128514613/1172414969455841330/Red_Zombie_Intro.gif
 
+loop: https://cdn.discordapp.com/attachments/1136130967128514613/1172417533752639530/Red_Zombie_Loop.gif
+
 ### Purple (Custom)
 
 intro: https://cdn.discordapp.com/attachments/1136130967128514613/1172415738372427836/Purple_Zombie_Intro.gif
