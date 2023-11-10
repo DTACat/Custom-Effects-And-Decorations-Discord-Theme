@@ -495,7 +495,7 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df08
 
 ## Headset
 
-blue: https://cdn.discordapp.com/attachments/1136130967128514613/1172419779601109042/DISXCOREHeadset_Blue.gif
+blue: https://cdn.discordapp.com/avatar-decoration-presets/a_d3da36040163ee0f9176dfe7ced45cdc.png?size=240&passthrough=true
 
 yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172419779945050153/DISXCOREHeadset_Yellow.gif
 
@@ -507,15 +507,15 @@ blue: https://cdn.discordapp.com/attachments/1136130967128514613/117242227789635
 
 yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172422278248665120/Yellow_UI.gif
 
-purple: https://cdn.discordapp.com/attachments/1136130967128514613/1172422277514666054/Purple_UI.gif
+purple: https://cdn.discordapp.com/avatar-decoration-presets/a_fed43ab12698df65902ba06727e20c0e.png?size=240&passthrough=true
 
-## Smoke (Broken)
+## Smoke
 
-blue: https://cdn.discordapp.com/attachments/1136130967128514613/1172424441016373258/Smoke_Blue.gif
+blue (Broken): https://cdn.discordapp.com/attachments/1136130967128514613/1172424441016373258/Smoke_Blue.gif
 
-yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172424441339318312/Smoke_Yellow.gif
+yellow: https://cdn.discordapp.com/avatar-decoration-presets/a_10b9f886b513b77ccdd67c8784f1a496.png?size=240&passthrough=true
 
-purple: https://cdn.discordapp.com/attachments/1136130967128514613/1172424440634683474/Smoke_Purple.gif
+purple (Broken): https://cdn.discordapp.com/attachments/1136130967128514613/1172424440634683474/Smoke_Purple.gif
 
 Sorry, can't get all of them :(
 
