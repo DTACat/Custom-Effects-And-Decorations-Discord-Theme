@@ -532,7 +532,15 @@ purple (Broken): https://cdn.discordapp.com/attachments/1136130967128514613/1172
 
 ## Saw (Re-Make)
 
-saw: https://cdn.discordapp.com/attachments/1136130967128514613/1172431215870091285/Saw.png
+image: https://cdn.discordapp.com/attachments/1136130967128514613/1172431215870091285/Saw.png
+
+## Sparkle Ring (Re-Make)
+
+blue: https://cdn.discordapp.com/attachments/1136130967128514613/1172659569709822132/Sparkle_Ring_Blue.png
+
+yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172660098498306138/Sparkle_Ring_Yellow.png
+
+purplr: https://cdn.discordapp.com/attachments/1136130967128514613/1172660098276003900/Sparkle_Ring_Purple.png
 
 Sorry, can't get all of them :(
 
