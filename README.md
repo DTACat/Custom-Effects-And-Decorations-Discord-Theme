@@ -272,7 +272,7 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/loop.png
 
-# Effect Preview (Remake)
+# Effect Preview (Re-make)
 
 ## Energy Effect
 
