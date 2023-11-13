@@ -45,6 +45,8 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zomb
 
 intro: https://cdn.discordapp.com/attachments/1136130967128514613/1172414568270659644/Blue_Zombie_Intro.gif
 
+pixel intro: https://cdn.discordapp.com/attachments/1136130967128514613/1173494762788110357/Blue_Zombie_Pix_Intro.gif
+
 loop: https://cdn.discordapp.com/attachments/1136130967128514613/1172416315680641024/Blue_Zombie_Loop.gif
 
 ### Red (Custom)
