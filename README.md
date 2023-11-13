@@ -39,6 +39,8 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/intro.png
 
+pixel intro: https://cdn.discordapp.com/attachments/1136130967128514613/1173496129678233731/Zombie_Pix_Intro.gif
+
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/loop.png
 
 ### Blue (Custom)
