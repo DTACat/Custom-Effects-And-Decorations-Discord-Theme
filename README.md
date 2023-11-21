@@ -43,6 +43,9 @@ pixel intro: https://cdn.discordapp.com/attachments/1136130967128514613/11734961
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/loop.png
 
+<details>
+<summary>Others</summary>
+
 ### Blue (Custom)
 
 intro: https://cdn.discordapp.com/attachments/1136130967128514613/1172414568270659644/Blue_Zombie_Intro.gif
@@ -62,6 +65,8 @@ loop: https://cdn.discordapp.com/attachments/1136130967128514613/117241753375263
 intro: https://cdn.discordapp.com/attachments/1136130967128514613/1172415738372427836/Purple_Zombie_Intro.gif
 
 loop: https://cdn.discordapp.com/attachments/1136130967128514613/1172417045732802621/Purple_Zombie_Loop.gif
+
+</details>
 
 ## Dark Omens
 
