@@ -24,6 +24,10 @@
 	display: none;
 }
 
+[class^="profileEffectShopPreview"] [class^="profileEffects"] {
+	display: revert;
+}
+
 [class*="userProfileInner"]::after {
 	content: "";
 	background: var(--profile-effect-image);
