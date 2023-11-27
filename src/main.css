@@ -35,11 +35,11 @@
 	pointer-events:none;
 	z-index: 1;
 	opacity: 1;
-	transition: opacity 0.3s;
+	transition: opacity 0.6s ease-in-out;
 }
 
 [class*="userProfileInner"]:hover::after {
-	opacity: 0.5;
+	opacity: 0.35;
 }
 
 [class*="userProfileModalInner"]::after, [class*="userPopoutInner"]::after {
