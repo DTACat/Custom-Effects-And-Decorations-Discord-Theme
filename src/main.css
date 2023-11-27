@@ -54,7 +54,8 @@
 	display: none;
 }
 
-:has(> img[class*="avatar_"])::before {
+:has(> img[class*="avatar_"])::before,
+[class*="avatarHoverTarget"]:has(img[class*="avatar_"])::before {
 	display: block;
 	background: var(--avatar-decoration-image);
 	background-size: cover;
@@ -74,7 +75,7 @@
 	height: var(--custom-message-avatar-decoration-size);
 }
 
-[class^="userPopoutInner"] *:has(> img[class*="avatar_"])::before {
+[class^="userPopoutInner"] [class*="avatarHoverTarget"]:has(img[class*="avatar_"])::before {
 	content: "";
 	width: calc(100% + 16px);
 	height: calc(100% + 16px);
