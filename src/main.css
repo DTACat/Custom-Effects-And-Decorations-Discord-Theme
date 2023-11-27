@@ -9,30 +9,41 @@
  */
 
 @property --profile-effect-image {
-	syntax: "<image>";
+	syntax: "<image> | none";
 	inherits: true;
 	initial-value: url("https://cdn.discordapp.com/attachments/1136130967128514613/1169088009329709166/DTACatEffect.png");
 }
 
 @property --avatar-decoration-image {
-	syntax: "<image>";
+	syntax: "<image> | none";
 	inherits: true;
 	initial-value: url("https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df0830d153b.png?size=160&passthrough=true");
 }
 
-:not([class^="previewContainer"]) > * > [class^="profileEffects"] img {
-	object-position: 9999px;
+[class^="profileEffects"] {
+	display: none;
 }
 
-:not([class^="previewContainer"]) > * > [class^="profileEffects"] img:first-of-type {
-	background-image: var(--profile-effect-image);
-	background-size: 100% auto;
-	background-repeat: no-repeat;
-	top: 0;
-	left: 0;
+[class*="userProfileInner"]::after {
+	content: "";
+	background: var(--profile-effect-image);
 	width: 100%;
 	height: 100%;
 	position: absolute;
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	pointer-events:none;
+	z-index: 1;
+	opacity: 1;
+	transition: opacity 0.3s;
+}
+
+[class*="userProfileInner"]:hover::after {
+	opacity: 0.5;
+}
+
+[class*="userProfileModalInner"]::after, [class*="userPopoutInner"]::after {
+	margin: -4px;
 }
 
 img[class^="avatarDecoration"],
