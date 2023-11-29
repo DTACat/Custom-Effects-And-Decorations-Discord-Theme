@@ -365,9 +365,10 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cyber
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cyberspace/loop.png
 
-
+</details>
 
 <details>
+  
 <summary>Custom Made</summary>
 
 # DTACat
