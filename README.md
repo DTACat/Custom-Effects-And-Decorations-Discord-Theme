@@ -8,9 +8,8 @@ Displays A Custom Profile Effect, and loops any default Effect.
 Here is a list of links for different profile effects you can change it too.
 
 
-<details>
   
-<summary>Discord Official</summary>
+Discord Official
 
 <details>
 
@@ -332,7 +331,7 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cyber
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cyberspace/loop.png
 
-</details>
+
 
 <details>
 <summary>Custom Made</summary>
