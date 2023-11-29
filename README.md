@@ -310,6 +310,12 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/loop.png
 
+</details>
+
+<details>
+
+<summary>Effect Preview (Re-make)</summary>
+
 # Effect Preview (Re-make)
 
 ## Energy Effect
@@ -322,6 +328,8 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/
 </details>
 
 image: https://cdn.discordapp.com/attachments/1136130967128514613/1172632400040316978/Energy_Effect_Remake.png
+
+</details>
 
 </details>
 
