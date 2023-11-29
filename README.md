@@ -367,9 +367,12 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cybers
 
 </details>
 
+  
+# Custom Made
+
 <details>
   
-<summary>Custom Made</summary>
+<summary>DTACat</summary>
 
 # DTACat
 
@@ -395,6 +398,12 @@ image: https://media.discordapp.net/attachments/1136130967128514613/116908800932
 
 image: https://media.discordapp.net/attachments/1136130967128514613/1168713612425170964/image.png
 
+</details>
+
+<details>
+
+<summary>UwU</summary>
+
 # UwU
 
 ## Heart
@@ -407,6 +416,8 @@ image: https://media.discordapp.net/attachments/1136130967128514613/116871361242
 </details>
 
 image: https://cdn.discordapp.com/attachments/1136130967128514613/1170217397823754320/Frame_6.png
+
+</details>
 
 # Want your custom made profile effects here?
 
