@@ -12,7 +12,8 @@ Here is a list of links for different profile effects you can change it too.
 <summary>Discord Official</summary>
 
 <details>
-# <summary>Halloween</summary>
+  
+<summary>Halloween</summary>
 
 Fright and delight your friends, strangers and friendly strangers.
 
@@ -84,7 +85,9 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghos
 
 </details>
 
-# Fall
+<details>
+  
+<summary>Fall</summary>
 
 There’s a calm and cosy vibe in the air.
 
@@ -115,6 +118,8 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/leave
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro.png
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/loop.png
+
+</details>
 
 # Fantasy
 
