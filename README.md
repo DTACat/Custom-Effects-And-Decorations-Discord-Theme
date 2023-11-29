@@ -16,6 +16,8 @@ Here is a list of links for different profile effects you can change it too.
        
 <summary>Halloween</summary>
 
+# Halloween
+
 Fright and delight your friends, strangers and friendly strangers.
 
 ## Ghoulish Graffiti
@@ -90,6 +92,8 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghos
   
 <summary>Fall</summary>
 
+# Fall
+
 There’s a calm and cosy vibe in the air.
 
 ## Fall Foliage
@@ -125,6 +129,8 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/l
 <details>
 
 <summary>Fantasy</summary>
+
+# Fantasy
 
 You’re walking in the forest and notice something magical and shiny.
 
@@ -208,6 +214,10 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fair
 
 </details>
 
+<details>
+
+<summary>Anime</summary>
+
 # Anime
 
 Senpai will definitely notice you.
@@ -264,6 +274,12 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/loop.png
 
+</details>
+
+<details>
+
+<summary>Breakfast</summary>
+
 # Breakfast
 
 Breakfast is definitely the most important meal of the day.
@@ -306,6 +322,12 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/
 </details>
 
 image: https://cdn.discordapp.com/attachments/1136130967128514613/1172632400040316978/Energy_Effect_Remake.png
+
+</details>
+
+<details>
+
+<summary>Disxcore</summary>
 
 # Disxcore
 
