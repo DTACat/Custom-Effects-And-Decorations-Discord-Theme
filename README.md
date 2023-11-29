@@ -14,7 +14,7 @@ Here is a list of links for different profile effects you can change it too.
 
 <details>
 
-  
+       
 <summary>Halloween</summary>
 
 Fright and delight your friends, strangers and friendly strangers.
