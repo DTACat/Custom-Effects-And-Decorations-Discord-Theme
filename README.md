@@ -122,7 +122,9 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/l
 
 </details>
 
-# Fantasy
+<details>
+
+<summary>Fantasy</summary>
 
 You’re walking in the forest and notice something magical and shiny.
 
@@ -203,6 +205,8 @@ on line 18, with
 </details>
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop.png
+
+</details>
 
 # Anime
 
