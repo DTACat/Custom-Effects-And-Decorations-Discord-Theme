@@ -9,7 +9,7 @@ Here is a list of links for different profile effects you can change it too.
 
 
   
-Discord Official
+# Discord Official
 
 <details>
 
