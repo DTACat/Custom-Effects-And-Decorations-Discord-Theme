@@ -526,7 +526,9 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df08
 
 # Discord 8th Birthday
 
-## Headset
+<details>
+
+<summary>Headset</summary>
 
 blue: https://cdn.discordapp.com/avatar-decoration-presets/a_d3da36040163ee0f9176dfe7ced45cdc.png?size=240&passthrough=true
 
@@ -534,7 +536,11 @@ yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172419779945
 
 purple: https://cdn.discordapp.com/attachments/1136130967128514613/1172419780234465360/DISXCOREHeadset_Perple.gif
 
-## Futuristic UI
+</details>
+
+<details>
+
+<summary>Futuristic UI</summary>
 
 blue: https://cdn.discordapp.com/attachments/1136130967128514613/1172422277896359968/Blue_UI.gif
 
@@ -542,7 +548,11 @@ yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172422278248
 
 purple: https://cdn.discordapp.com/avatar-decoration-presets/a_fed43ab12698df65902ba06727e20c0e.png?size=240&passthrough=true
 
-## Smoke
+</details>
+
+<details>
+
+<summary>Smoke</summary>
 
 blue (Broken): https://cdn.discordapp.com/attachments/1136130967128514613/1172424441016373258/Smoke_Blue.gif
 
@@ -550,17 +560,27 @@ yellow: https://cdn.discordapp.com/avatar-decoration-presets/a_10b9f886b513b77cc
 
 purple (Broken): https://cdn.discordapp.com/attachments/1136130967128514613/1172424440634683474/Smoke_Purple.gif
 
-## Saw (Re-Make)
+</details>
+
+<details>
+
+<summary>Saw (Re-Make)</summary>
 
 image: https://cdn.discordapp.com/attachments/1136130967128514613/1172431215870091285/Saw.png
 
-## Sparkle Ring (Re-Make)
+</details>
+
+<details>
+
+<summary>Sparkle Ring (Re-Make)</summary>
 
 blue: https://cdn.discordapp.com/attachments/1136130967128514613/1172659569709822132/Sparkle_Ring_Blue.png
 
 yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172660098498306138/Sparkle_Ring_Yellow.png
 
 purplr: https://cdn.discordapp.com/attachments/1136130967128514613/1172660098276003900/Sparkle_Ring_Purple.png
+
+</details>
 
 Sorry, can't get all of them :(
 
