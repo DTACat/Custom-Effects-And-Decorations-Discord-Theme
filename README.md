@@ -187,7 +187,7 @@ on line 18, with
 
 ## Mystic Vines
 
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/1da020d8-3447-4c59-9cca-92e3351d8730)
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/dcfdc1b0-8d61-43a8-9063-ef5eebfd2363)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro.png
 
@@ -210,7 +210,7 @@ on line 18, with
 
 ## Pixie Dust
 
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/54af1dc6-9a8e-45ed-b094-659dbd9e24d1)
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/31891da1-a297-4513-b387-e822d33187a8)
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop.png
 
