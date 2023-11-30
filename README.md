@@ -26,12 +26,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-22/deck-
 
 ## Snowy Shenanigans
 
-<details>
-<summary>Preview</summary>
-
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/78755b8b-c4ec-47d8-955f-5992e50c40b6)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/2502f44d-4b61-49a8-90d8-20c8635fae39)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-28/snowy-shenanigans/intro.png
 
