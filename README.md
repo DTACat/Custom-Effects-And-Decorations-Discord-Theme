@@ -18,12 +18,7 @@ Here is a list of links for different profile effects you can change it too.
 
 ## Deck the Halls
 
-<details>
-<summary>Preview</summary>
-
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/f2f7d541-f2f7-4a59-b5e5-70455b491bac)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/cbb117ea-c64e-4cc2-b29c-24c7558f05ff)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-28/deck-the-halls/intro.png
 
