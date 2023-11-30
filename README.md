@@ -224,12 +224,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fair
 
 ## Magic Hearts
 
-<details>
-<summary>Preview</summary>
-
-![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168683394004172871/magic-girl_thumbnail.png)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4ead59df-57bb-4272-a6aa-c0686dbad107)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/intro.png
 
@@ -237,12 +232,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magi
 
 ## Shater (Broken)
 
-<details>
-<summary>Preview</summary>
-
-![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168687326910763058/earthquake_thumbnail.png)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/ed039480-df47-4c33-aa32-74948f844524)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/earthquake/intro.png
 
@@ -250,12 +240,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/eart
 
 ## Shuriken Strike (Broken)
 
-<details>
-<summary>Preview</summary>
-
-![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168687913681301545/shuriken_thumbnail.png)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/372bdccc-f198-4759-a01f-dd5ce6765806)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/shuriken/intro.png
 
@@ -263,12 +248,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/shur
 
 ## Power Surge
 
-<details>
-<summary>Preview</summary>
-
-![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168688411410976838/sayan_thumbnail.png)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/527ea2b8-2d55-4b5c-9c2d-0d35cf16a6d4)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/intro.png
 
