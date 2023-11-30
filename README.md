@@ -280,7 +280,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/
 
 <summary>Breakfast</summary>
 
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/0f250022-fb87-428a-a010-dae5a5724553)
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/3abab467-9824-4409-8a93-4b6da756869a)
 
 Breakfast is definitely the most important meal of the day.
 
