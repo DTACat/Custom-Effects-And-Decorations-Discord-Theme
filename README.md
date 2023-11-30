@@ -1,3 +1,5 @@
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
+
 # Custom Profile Effects
 Displays A Custom Profile Effect, and loops any default Effect.
 
