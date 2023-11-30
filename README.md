@@ -18,6 +18,31 @@ Here is a list of links for different profile effects you can change it too.
 
 ‘Tis the season
 
+## Deck the Halls
+
+<details>
+<summary>Preview</summary>
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/f2f7d541-f2f7-4a59-b5e5-70455b491bac)
+
+</details>
+
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-28/deck-the-halls/intro.png
+
+loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-22/deck-the-halls/loop.png
+
+## Snowy Shenanigans
+
+<details>
+<summary>Preview</summary>
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/78755b8b-c4ec-47d8-955f-5992e50c40b6)
+
+</details>
+
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-28/snowy-shenanigans/intro.png
+
+loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-22/snowy-shenanigans/loop.png
 
 </details>
 
