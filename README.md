@@ -574,6 +574,10 @@ Sorry, can't get all of them :(
   
 <summary>DTACat</summary>
 
+# DTACat
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/c4d0be0d-0891-4b51-98b5-e3a504902d0c)
+
 ## Snipe
 
 <details>
