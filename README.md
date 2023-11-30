@@ -400,6 +400,8 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cybers
 
 # DTACat
 
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/c4d0be0d-0891-4b51-98b5-e3a504902d0c)
+
 ## DTACat
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/08e02751-7814-4162-85bb-be3c176fd9e1)
