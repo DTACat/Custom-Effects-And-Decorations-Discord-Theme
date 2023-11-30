@@ -156,16 +156,9 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/l
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/1cdb9f20-472c-4c37-80ef-530812cad8b1)
 
-You’re walking in the forest and notice something magical and shiny.
-
 ## Hydro Blast
 
-<details>
-<summary>Preview</summary>
-
-![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168676512447352913/splash_thumbnail.png)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/b12451e2-95f0-4b4e-9cac-f11295c7c3cc)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/splash/intro.png
 
