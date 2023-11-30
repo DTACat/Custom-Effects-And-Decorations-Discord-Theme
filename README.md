@@ -524,7 +524,9 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df08
 
 </details>
 
-# Discord 8th Birthday
+<details>
+
+<summary>Discord 8th Birthday</summary>
 
 <details>
 
@@ -583,6 +585,8 @@ purplr: https://cdn.discordapp.com/attachments/1136130967128514613/1172660098276
 </details>
 
 Sorry, can't get all of them :(
+
+</details>
 
 # Custom Made
 
