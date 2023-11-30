@@ -282,16 +282,9 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/3abab467-9824-4409-8a93-4b6da756869a)
 
-Breakfast is definitely the most important meal of the day.
-
 ## Discord-Os
 
-<details>
-<summary>Preview</summary>
-
-![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168688798805278830/cereal_thumbnail.png)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b7be432-e7d5-480f-9a2f-6d39280999ab)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/intro.png
 
@@ -299,12 +292,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal
 
 ## Breakfast Plate
 
-<details>
-<summary>Preview</summary>
-
-![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168690243659120670/plate_thumbnail.png)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/d6c1b508-3880-4c6d-97e6-9a1603d5988a)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/intro.png
 
