@@ -16,8 +16,6 @@ Here is a list of links for different profile effects you can change it too.
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/e3ca4a31-76e0-4660-93c5-36105dc3bb0b)
 
-‘Tis the season
-
 ## Deck the Halls
 
 <details>
