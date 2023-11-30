@@ -376,7 +376,7 @@ Displays A Custom Avatar Decoration.
 Here is a list of links for different Avatar Decorations you can change it too.
 
   
-Discord Official
+# Discord Official
 
 <details>
 
@@ -524,8 +524,7 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df08
 
 </details>
 
-<details>
-<summary>Discord 8th Birthday</summary>
+# Discord 8th Birthday
 
 ## Headset
 
@@ -565,10 +564,7 @@ purplr: https://cdn.discordapp.com/attachments/1136130967128514613/1172660098276
 
 Sorry, can't get all of them :(
 
-</details>
-
-<details>
-<summary>Custom Made</summary>
+# Custom Made
 
 # DTACat
 
@@ -600,6 +596,5 @@ Submit your avatar decoration on the discord server.
 
 https://discord.gg/7SBn9qzwxC
 
-</details>
 
 
