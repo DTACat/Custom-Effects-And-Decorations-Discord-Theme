@@ -380,7 +380,29 @@ Here is a list of links for different Avatar Decorations you can change it too.
 
 <details>
 
-<summary>Halloween</summary>
+<summary>Winter Wonderland (2023)</summary>
+
+## New Year: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png?size=240&passthrough=true
+
+## Fresh Pine: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_a0fafb7c7ee7f1e5b1442f44f3aa14b7.png?size=240&passthrough=true
+
+## Snow Globe: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_85a8f9ca60cb4328378270a7f13ed7fd.png?size=160&passthrough=true
+
+## Fairy Lights: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_88f42fb7360d8224a670a50c3496f315.png?size=240&passthrough=true
+
+</details>
+
+<details>
+
+<summary>Halloween (2023)</summary>
 
 ## Graveyard Cat: 
 
@@ -402,7 +424,7 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480
 
 <details>
 
-<summary>Fall</summary>
+<summary>Fall (2023)</summary>
 
 ## Autumn Leavs: 
 
