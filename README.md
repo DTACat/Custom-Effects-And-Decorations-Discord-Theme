@@ -220,9 +220,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fair
 
 <summary>Anime</summary>
 
-# Anime
-
-Senpai will definitely notice you.
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/e669e275-430f-4b65-9565-8c1420918127)
 
 ## Magic Hearts
 
