@@ -166,12 +166,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/spla
 
 ## Sakura Dreams
 
-<details>
-<summary>Preview</summary>
-
-![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168680403700306001/sakura_thumbnail.png)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/9f0e14e4-c17c-49e2-bf37-547954f79bb2)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-5/sakura/intro.png
 
@@ -192,12 +187,7 @@ on line 18, with
 
 ## Mystic Vines
 
-<details>
-<summary>Preview</summary>
-
-![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168681969522053153/vines_thumbnail.png)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/1da020d8-3447-4c59-9cca-92e3351d8730)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro.png
 
@@ -220,12 +210,7 @@ on line 18, with
 
 ## Pixie Dust
 
-<details>
-<summary>Preview</summary>
-
-![image](https://cdn.discordapp.com/attachments/1136130967128514613/1168682923826880693/fairy_thumbnail.png)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/54af1dc6-9a8e-45ed-b094-659dbd9e24d1)
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop.png
 
