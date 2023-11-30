@@ -402,7 +402,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cybers
 
 ## DTACat
 
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/711086bc-81df-4388-8c78-0927b47af38d)
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/08e02751-7814-4162-85bb-be3c176fd9e1)
 
 image: https://media.discordapp.net/attachments/1136130967128514613/1169088009329709166/DTACatEffect.png
 
