@@ -14,7 +14,7 @@ Here is a list of links for different profile effects you can change it too.
 <details>
 <summary>Winter Wonderland</summary>
 
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/e3ca4a31-76e0-4660-93c5-36105dc3bb0b)
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/023f7647-a73e-46e6-be36-5cfb34969d09)
 
 ## Deck the Halls
 
