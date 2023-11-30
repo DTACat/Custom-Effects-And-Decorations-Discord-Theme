@@ -339,16 +339,11 @@ image: https://cdn.discordapp.com/attachments/1136130967128514613/11726324000403
 
 <summary>Disxcore</summary>
 
-# Disxcore
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/30e4eaa1-b60f-449d-ad66-5843bd52079c)
 
 ## Boost Relic
 
-<details>
-<summary>Preview</summary>
-
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/3e1219ce-7b42-46db-ba29-c00c157bc3b7)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/fb50630f-83a6-4a40-8bdd-3165a2d05b2f)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/boost-relic/intro.png
 
@@ -356,12 +351,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/boost-
 
 ## Cyberspace
 
-<details>
-<summary>Preview</summary>
-
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/2bdb9d75-fa42-456c-8544-0470eb8b5633)
-
-</details>
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/f549bd26-8cc8-4545-b600-a6b0dba34222)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-7/cyberspace/intro.png
 
