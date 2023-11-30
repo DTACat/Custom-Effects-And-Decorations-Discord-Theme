@@ -187,7 +187,7 @@ on line 18, with
 
 ## Mystic Vines
 
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/dcfdc1b0-8d61-43a8-9063-ef5eebfd2363)
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/ebc1d455-e9ed-4893-a9aa-9eb3b0e15071)
 
 intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/vines/intro.png
 
