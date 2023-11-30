@@ -12,8 +12,17 @@ Here is a list of links for different profile effects you can change it too.
 # Discord Official
 
 <details>
+<summary>Winter Wonderland</summary>
 
-       
+# Winter Wonderland
+
+‘Tis the season
+
+
+</details>
+
+<details>
+
 <summary>Halloween</summary>
 
 # Halloween
