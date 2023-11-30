@@ -274,6 +274,14 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/loop.png
 
+# Effect Preview (Re-make)
+
+## Energy Effect
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/82262d57-9311-4fbb-8254-d7cc0ec0176f)
+
+image: https://cdn.discordapp.com/attachments/1136130967128514613/1172632400040316978/Energy_Effect_Remake.png
+
 </details>
 
 <details>
@@ -299,28 +307,11 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/loop.png
 
 </details>
+-
 
-<details>
 
-<summary>Effect Preview (Re-make)</summary>
 
-# Effect Preview (Re-make)
-
-## Energy Effect
-
-<details>
-<summary>Preview</summary>
-
-![image](https://cdn.discordapp.com/attachments/1136130967128514613/1172633523614666913/image.png)
-
-</details>
-
-image: https://cdn.discordapp.com/attachments/1136130967128514613/1172632400040316978/Energy_Effect_Remake.png
-
-</details>
-
-</details>
-
+-
 <details>
 
 <summary>Disxcore</summary>
