@@ -274,8 +274,6 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/loop.png
 
-# Effect Preview (Re-make)
-
 ## Energy Effect
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/82262d57-9311-4fbb-8254-d7cc0ec0176f)
@@ -307,11 +305,7 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/plate/loop.png
 
 </details>
--
 
-
-
--
 <details>
 
 <summary>Disxcore</summary>
