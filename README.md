@@ -566,7 +566,9 @@ Sorry, can't get all of them :(
 
 # Custom Made
 
-# DTACat
+<details>
+  
+<summary>DTACat</summary>
 
 ## Snipe
 
@@ -589,6 +591,8 @@ image: https://cdn.discordapp.com/attachments/1136130967128514613/11690984556674
 </details>
 
 image: https://cdn.discordapp.com/attachments/1136130967128514613/1169159581109334036/CatEarDeco.png
+
+</details>
 
 # Want your custom made avatar decorations here?
 
