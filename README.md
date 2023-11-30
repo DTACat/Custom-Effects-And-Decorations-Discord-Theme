@@ -375,11 +375,12 @@ Displays A Custom Avatar Decoration.
 
 Here is a list of links for different Avatar Decorations you can change it too.
 
-<details>
   
-<summary>Discord Official</summary>
+Discord Official
 
-# Halloween
+<details>
+
+<summary>Halloween</summary>
 
 ## Graveyard Cat: 
 
@@ -397,7 +398,11 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_f979ba5f9c2ba83db3149cc02
 
 https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480b0eb3e1.png?size=240&passthrough=true
 
-# Fall
+</details>
+
+<details>
+
+<summary>Fall</summary>
 
 ## Autumn Leavs: 
 
@@ -415,7 +420,11 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_4936aa6c33a101b593f9607d4
 
 https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d2ef05e4.png?size=160&passthrough=true
 
-# Fantasy
+</details>
+
+<details>
+
+<summary>Fantasy</summary>
 
 ## Flaming Sword: 
 
@@ -449,7 +458,11 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_9d67a1cbf81fe7197c871e94f
 
 https://cdn.discordapp.com/avatar-decoration-presets/a_4c9f2ec29c05755456dbce45d8190ed4.png?size=160&passthrough=true
 
-# Anime
+</details>
+
+<details>
+
+<summary>Anime</summary>
 
 ## Radiating Energy: 
 
@@ -479,7 +492,11 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_f1b2fd4706ab02b54d3a58f84
 
 https://cdn.discordapp.com/avatar-decoration-presets/a_3c97a2d37f433a7913a1c7b7a735d000.png?size=160&passthrough=true
 
-# Breakfast
+</details>
+
+<details>
+
+<summary>Breakfast</summary>
 
 ## Toast: 
 
