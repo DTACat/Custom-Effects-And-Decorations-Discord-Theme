@@ -51,7 +51,7 @@
 }
 
 img[class^="avatarDecoration"],
-:not([class*="shopCard"]) > * > *[class^="avatar"] img {
+:not([class*="shopCard"]) > * > *[class^="avatarDecoration"] img {
 	object-position: 9999px;
 	background-image: var(--avatar-decoration-image);
 	background-size: cover;
