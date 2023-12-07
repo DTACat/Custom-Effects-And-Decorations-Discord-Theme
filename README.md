@@ -370,7 +370,7 @@ https://discord.gg/7SBn9qzwxC
 # Custom Avatar Decorations
 Displays A Custom Avatar Decoration.
 
-(Use Docor plugin for custom ones, its just better)
+(Use Decor plugin for custom ones, its just better)
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/374b89df-d87f-4801-81d9-1979efc83780)
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/ae7acaa3-2dc8-4dd2-91aa-2e09ed398691)
