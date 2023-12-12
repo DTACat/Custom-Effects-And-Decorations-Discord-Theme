@@ -152,6 +152,16 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/l
 
 <details>
 
+<summary>Monsters</summary>
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/fb3affe8-326c-48df-a430-6d576f6679be)
+
+Soon
+
+</details>
+
+<details>
+
 <summary>Fantasy</summary>
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/1cdb9f20-472c-4c37-80ef-530812cad8b1)
