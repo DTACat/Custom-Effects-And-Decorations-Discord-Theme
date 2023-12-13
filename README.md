@@ -174,7 +174,7 @@ intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-30/hear
 
 loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/heartzilla/loop.png
 
-##Monster Pop
+## Monster Pop
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/a1810658-db6f-4e59-95bd-18aecd14e460)
 
