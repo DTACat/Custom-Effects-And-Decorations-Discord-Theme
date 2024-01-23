@@ -153,7 +153,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/l
 
 <details>
 
-<summary>CYBERPUNK</summary>
+<summary>Cyberpunk</summary>
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/8d158021-32bb-4930-8ec1-287e749165fc)
 
@@ -161,17 +161,17 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/l
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/75ed9c58-611b-47fb-88ac-26299b74ed48)
 
-intro:
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-18/cyberpunk-nightrunner/intro.png
 
-loop:
+idle: https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-18/cyberpunk-nightrunner/idle.png
 
 ## Uplink Error
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/8abcce7a-8057-42f8-b9dd-78da5d16373d)
 
-intro:
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-18/cyberpunk-uplinkerror/intro.png
 
-loop:
+idle: https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-18/cyberpunk-uplinkerror/idle.png
 
 </details>
 
