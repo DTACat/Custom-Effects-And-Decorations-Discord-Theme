@@ -510,6 +510,44 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d
 
 <details>
 
+<summary>Monster</summary>
+
+## Beamchomp:
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_e11ac0d3f2b1301173847b84a1a3268f.png?size=240&passthrough=true
+
+## Stinkums:
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_ea8e2e628bacdddb1ef18cb382aa454c.png?size=240&passthrough=true
+
+## Chuck:
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_68b9ced89df522993b81a33f43490ef1.png?size=240&passthrough=true
+
+## Winkle:
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_8b7ad8479ad8cc9996b508b75410e2f9.png?size=240&passthrough=true
+
+## Chewbert:
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_129e3e818c8319e031d34d4194cf8ecd.png?size=240&passthrough=true
+
+## Doodlezard:
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_48ca99fcfa4ecc11acdc323534a0ecbb.png?size=240&passthrough=true
+
+## Glop:
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_42f43a32539de2f3f30a348dc8a880e1.png?size=240&passthrough=true
+
+## Gawblehop:
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_be797b0a0efafd45a9ee49aaedbde4d2.png?size=240&passthrough=ture
+
+</details>
+
+<details>
+
 <summary>Fantasy</summary>
 
 ## Flaming Sword: 
