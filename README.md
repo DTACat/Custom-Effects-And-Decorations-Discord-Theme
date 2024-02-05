@@ -510,6 +510,28 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d
 
 <details>
 
+<summary>Cyberpunk</summary>
+
+## Glitch:
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_e90ebc0114e7bdc30353c8b11953ea41.png?size=240&passthrough=true
+
+## Cybernetic
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_c6b3bc1dc49e5b284dca0b6437831004.png?size=240&passthrough=true
+
+## Digital Sunrise
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_cc83efd93ecd6e41857449c3c0ef9b22.png?size=240&passthrough=true
+
+## Implant
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_172fa9da0af8698e37f5e5de76637439.png?size=240&passthrough=true
+
+</details>
+
+<details>
+
 <summary>Monster</summary>
 
 ## Beamchomp:
