@@ -1,30 +1,19 @@
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
 
-<details>
+Theme Status On Discord
 
-<summary>Theme Status On Discord</summary>
-
-## Lunar New Year - ✅
-
-## Cyberpunk - ✅
-
-## Monsters - ❌
-
-## Winter Wonderland - ❌
-
-## Halloween - ❌
-
-## Fall - ❌
-
-## Fantasy - ✅
-
-## Anime - ✅
-
-## Breakfast - ❌
-
-## Disxcore - ✅
-
-</details>
+| Theme | Status |
+| --- | --- |
+| Lunar New Year | Okay |
+| Cyberpunk | Okay |
+| Monsters | Unable to be Perchased |
+| Winter Wonderland | Unable to be Perchased |
+| Halloween | Unable to be Perchased |
+| Fall | Unable to be Perchased |
+| Fantasy | Okay |
+| Anime | Okay |
+| Breakfast | Unable to be Perchased |
+| Disxcore | Okay |
 
 # Custom Profile Effects
 Displays A Custom Profile Effect, and loops any default Effect.
