@@ -4,7 +4,7 @@ Theme Status On Discord
 
 | Theme | Status |
 | --- | --- |
-| Lunar New Year | Okay |
+| [Lunar New Year](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme?tab=readme-ov-file#dragon-dance) | Okay |
 | Cyberpunk | Okay |
 | Monsters | Unable to be Perchased |
 | Winter Wonderland | Unable to be Perchased |
