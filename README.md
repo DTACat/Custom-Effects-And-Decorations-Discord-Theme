@@ -2,18 +2,18 @@
 
 Theme Status On Discord
 
-| Theme | Status |
-| --- | --- |
-| Lunar New Year | Okay |
-| Cyberpunk | Okay |
-| Monsters | Unable to be Perchased |
-| Winter Wonderland | Unable to be Perchased |
-| Halloween | Unable to be Perchased |
-| Fall | Unable to be Perchased |
-| Fantasy | Okay |
-| Anime | Okay |
-| Breakfast | Unable to be Perchased |
-| Disxcore | Okay |
+| Theme | Status | Date Added | Date Removed |
+| --- | --- | --- | --- |
+| Lunar New Year | Okay | September 2023 | N/A |
+| Cyberpunk | Okay | September 2023 | N/A |
+| Monsters | Unable to be Perchased | September 2023 | February 2024 |
+| Winter Wonderland | Unable to be Perchased | September 2023 | January 2024 |
+| Halloween | Unable to be Perchased | October 2023 | November 2023 |
+| Fall | Unable to be Perchased | September 2023 | November 2023 |
+| Fantasy | Okay | September 2023 | N/A |
+| Anime | Okay | September 2023 | N/A |
+| Breakfast | Unable to be Perchased | September 2023 | February 2024 |
+| Disxcore | Okay | September 2023 | N/A |
 
 # Custom Profile Effects
 Displays A Custom Profile Effect, and loops any default Effect.
