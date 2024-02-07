@@ -4,16 +4,16 @@ Item Theme Status On Discord
 
 | Theme | Status | Last Added | Last Removed |
 | --- | --- | --- | --- |
-| Lunar New Year | Okay | February 2024 | N/A |
-| Cyberpunk | Okay | February 2024 | N/A |
-| Monsters | Unable to be Perchased | January 2024 | February 2024 |
-| Winter Wonderland | Unable to be Perchased | December 2023 | January 2024 |
-| Halloween | Unable to be Perchased | October 2023 | November 2023 |
-| Fall | Unable to be Perchased | October 2023 | November 2023 |
-| Fantasy | Okay | September 2023 | N/A |
-| Anime | Okay | September 2023 | N/A |
-| Breakfast | Unable to be Perchased | September 2023 | February 2024 |
-| Disxcore | Okay | September 2023 | N/A |
+| Lunar New Year | Purchasable | February 2024 | N/A |
+| Cyberpunk | Purchasable | February 2024 | N/A |
+| Monsters | UnPurchasable | January 2024 | February 2024 |
+| Winter Wonderland | UnPurchasable | December 2023 | January 2024 |
+| Halloween | UnPurchasable | October 2023 | November 2023 |
+| Fall | UnPurchasable | October 2023 | November 2023 |
+| Fantasy | Purchasable | September 2023 | N/A |
+| Anime | Purchasable | September 2023 | N/A |
+| Breakfast | UnPurchasable | September 2023 | February 2024 |
+| Disxcore | Purchasable | September 2023 | N/A |
 
 # Custom Profile Effects
 Displays A Custom Profile Effect, and loops any default Effect.
