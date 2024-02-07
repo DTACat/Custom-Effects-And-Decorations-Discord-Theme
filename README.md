@@ -14,7 +14,7 @@ Item Theme Status On Discord
 | Fantasy | Okay | September 2023 - N/A | US$6.99 - US$11.99 |
 | Anime | Okay | September 2023 - N/A | US$5.49 - US$11.99 |
 | Breakfast | Unable to be Perchased | September 2023 - February 2024 | US$2.99 - US$11.99 |
-| Disxcore | Okay | September 2023 N/A | US$10/month |
+| Disxcore | Okay | September 2023 - N/A | US$10/month |
 
 # Custom Profile Effects
 Displays A Custom Profile Effect, and loops any default Effect.
