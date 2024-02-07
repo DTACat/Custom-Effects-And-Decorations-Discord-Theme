@@ -1,19 +1,20 @@
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
 
 Item Theme Status On Discord
+(Some Prises/Dates May Not Be Accurate)
 
-| Theme | Status | Last Added | Last Removed |
+| Theme | Status | Added - Removed | Prise Range |
 | --- | --- | --- | --- |
-| Lunar New Year | Okay | February 2024 | N/A |
-| Cyberpunk | Okay | February 2024 | N/A |
-| Monsters | Unable to be Perchased | January 2024 | February 2024 |
-| Winter Wonderland | Unable to be Perchased | December 2023 | January 2024 |
-| Halloween | Unable to be Perchased | October 2023 | November 2023 |
-| Fall | Unable to be Perchased | October 2023 | November 2023 |
-| Fantasy | Okay | September 2023 | N/A |
-| Anime | Okay | September 2023 | N/A |
-| Breakfast | Unable to be Perchased | September 2023 | February 2024 |
-| Disxcore | Okay | September 2023 | N/A |
+| Lunar New Year | Okay | February 2024 - N/A | 4.99 - 5.99 |
+| Cyberpunk | Okay | February 2024 - N/A | 4.99 - 5.99 |
+| Monsters | Unable to be Perchased | January 2024 - February 2024 | 3.99 - 4.99 |
+| Winter Wonderland | Unable to be Perchased | December 2023 - January 2024 | 3.99 - 4.99 |
+| Halloween | Unable to be Perchased | October 2023 - November 2023 | 2.99 - 7.99 |
+| Fall | Unable to be Perchased | October 2023 - November 2023 | N/A (Forgot) |
+| Fantasy | Okay | September 2023 - N/A | US$6.99 - US$11.99 |
+| Anime | Okay | September 2023 - N/A | US$5.49 - US$11.99 |
+| Breakfast | Unable to be Perchased | September 2023 - February 2024 | US$2.99 - US$11.99 |
+| Disxcore | Okay | September 2023 N/A | US$10/month |
 
 # Custom Profile Effects
 Displays A Custom Profile Effect, and loops any default Effect.
