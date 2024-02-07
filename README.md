@@ -2,7 +2,7 @@
 
 Item Theme Status On Discord
 
-| Theme | Status | Date Added | Date Removed |
+| Theme | Status | Last Added | Last Removed |
 | --- | --- | --- | --- |
 | Lunar New Year | Okay | February 2024 | N/A |
 | Cyberpunk | Okay | February 2024 | N/A |
