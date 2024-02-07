@@ -37,6 +37,8 @@ idle: https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-18/cyberp
 
 </details>
 
+<details>
+
 <summary>Monsters</summary>
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/fb3affe8-326c-48df-a430-6d576f6679be)
