@@ -1,7 +1,7 @@
 /**
  * @name Custom Effects & Decoration
  * @author DTACat, WNTIV
- * @version 2.2.1
+ * @version 2.2.2
  * @description Displays A Custom Profile Effect And Avatar Decoration.
  * @source https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme
  * @website https://sites.google.com/view/goofytests/home-page
@@ -13,7 +13,6 @@
 :root {
 	/**
 	 * Change the URL below to the link of an image/gif you want to be your profile effect
-	 * (you will need any profile effect equipped on your profile for this to take effect)
 	 */
 	--profile-effect-image: url("https://cdn.discordapp.com/attachments/1136130967128514613/1169088009329709166/DTACatEffect.png");
 	--avatar-decoration-image: url("https://cdn.discordapp.com/attachments/1136130967128514613/1169159581109334036/CatEarDeco.png");
