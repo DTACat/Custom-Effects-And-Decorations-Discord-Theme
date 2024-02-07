@@ -2,27 +2,27 @@
 
 <details>
 
-<summary>Theme Status</summary>
+<summary>Theme Status On Discord</summary>
 
-Lunar New Year - <code style="color : green">Okay</code>
+Lunar New Year - ✅
 
-Cyberpunk - <font color="green"> Some green text </font>
+Cyberpunk - ✅
 
-Monsters - Unable to be Purchased
+Monsters - ❌
 
-Winter Wonderland - Unable to be Purchased
+Winter Wonderland - ❌
 
-Halloween - Unable to be Purchased
+Halloween - ❌
 
-Fall - Unable to be Purchased
+Fall - ❌
 
-Fantasy - Okay
+Fantasy - ✅
 
-Anime - Okay
+Anime - ✅
 
-Breakfast - Unable to be Purchased
+Breakfast - ❌
 
-Disxcore - Okay
+Disxcore - ✅
 
 </details>
 
