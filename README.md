@@ -15,7 +15,7 @@ Here is a list of links for different profile effects you can change it too.
 
 <details>
 
-<summary>Lunar New Year</summary>
+<summary>Lunar New Year (New)</summary>
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/78730946-e6b4-4f34-810c-5839f63aa3f4)
 
@@ -49,7 +49,7 @@ fireworks: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-01/
 
 <details>
 
-<summary>Cyberpunk</summary>
+<summary>Cyberpunk (New)</summary>
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/8d158021-32bb-4930-8ec1-287e749165fc)
 
@@ -476,7 +476,7 @@ Here is a list of links for different Avatar Decorations you can change it too.
 
 <details>
 
-<summary>Lunar New Year</summary>
+<summary>Lunar New Year (New)</summary>
 
 ## Fan Flourish
 
@@ -506,7 +506,7 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_50b440810b1bbd89f6284f36d
 
 <details>
 
-<summary>Cyberpunk</summary>
+<summary>Cyberpunk (New)</summary>
 
 ## Glitch:
 
