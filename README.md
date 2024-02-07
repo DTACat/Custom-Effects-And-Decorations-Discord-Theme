@@ -212,10 +212,6 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/l
 
 <details>
 
-
-
-<details>
-
 <summary>Fantasy</summary>
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/1cdb9f20-472c-4c37-80ef-530812cad8b1)
