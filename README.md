@@ -1,15 +1,15 @@
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
 
-Theme Status On Discord
+Item Theme Status On Discord
 
 | Theme | Status | Date Added | Date Removed |
 | --- | --- | --- | --- |
-| Lunar New Year | Okay | September 2023 | N/A |
-| Cyberpunk | Okay | September 2023 | N/A |
-| Monsters | Unable to be Perchased | September 2023 | February 2024 |
-| Winter Wonderland | Unable to be Perchased | September 2023 | January 2024 |
+| Lunar New Year | Okay | February 2024 | N/A |
+| Cyberpunk | Okay | February 2024 | N/A |
+| Monsters | Unable to be Perchased | January 2024 | February 2024 |
+| Winter Wonderland | Unable to be Perchased | December 2023 | January 2024 |
 | Halloween | Unable to be Perchased | October 2023 | November 2023 |
-| Fall | Unable to be Perchased | September 2023 | November 2023 |
+| Fall | Unable to be Perchased | October 2023 | November 2023 |
 | Fantasy | Okay | September 2023 | N/A |
 | Anime | Okay | September 2023 | N/A |
 | Breakfast | Unable to be Perchased | September 2023 | February 2024 |
