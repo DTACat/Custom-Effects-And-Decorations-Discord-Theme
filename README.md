@@ -442,72 +442,6 @@ Here is a list of links for different Avatar Decorations you can change it too.
 
 <details>
 
-<summary>Winter Wonderland (2023)</summary>
-
-## New Year: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png?size=240&passthrough=true
-
-## Fresh Pine: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_a0fafb7c7ee7f1e5b1442f44f3aa14b7.png?size=240&passthrough=true
-
-## Snow Globe: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_85a8f9ca60cb4328378270a7f13ed7fd.png?size=160&passthrough=true
-
-## Fairy Lights: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_88f42fb7360d8224a670a50c3496f315.png?size=240&passthrough=true
-
-</details>
-
-<details>
-
-<summary>Halloween (2023)</summary>
-
-## Graveyard Cat: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_ad4e2cad924bbb3a2fddf5c527370479.png?size=240&passthrough=true
-
-## Ghosts: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_b9a64088e30fd3a6f2456c2e0f44f173.png?size=240&passthrough=true
-
-## Minions: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_f979ba5f9c2ba83db3149cc02f489f7c.png?size=240&passthrough=true
-
-## Jack-o'-lantern: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480b0eb3e1.png?size=240&passthrough=true
-
-</details>
-
-<details>
-
-<summary>Fall (2023)</summary>
-
-## Autumn Leavs: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_5087f7f988bd1b2819cac3e33d0150f5.png?size=240&passthrough=true
-
-## Pumpkin Spice: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_145dffeb81bcfff96be683fd9f6db20a.png?size=240&passthrough=true
-
-## Frog Hat: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_4936aa6c33a101b593f9607d48d686ec.png?size=160&passthrough=true
-
-## Fox Hat: 
-
-https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d2ef05e4.png?size=160&passthrough=true
-
-</details>
-
-<details>
-
 <summary>Cyberpunk</summary>
 
 ## Glitch:
@@ -565,6 +499,74 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_42f43a32539de2f3f30a348dc
 https://cdn.discordapp.com/avatar-decoration-presets/a_be797b0a0efafd45a9ee49aaedbde4d2.png?size=240&passthrough=ture
 
 </details>
+
+<details>
+
+<summary>Winter Wonderland</summary>
+
+## New Year: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_a46f14932ac02de32f64139d3b9057b8.png?size=240&passthrough=true
+
+## Fresh Pine: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_a0fafb7c7ee7f1e5b1442f44f3aa14b7.png?size=240&passthrough=true
+
+## Snow Globe: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_85a8f9ca60cb4328378270a7f13ed7fd.png?size=160&passthrough=true
+
+## Fairy Lights: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_88f42fb7360d8224a670a50c3496f315.png?size=240&passthrough=true
+
+</details>
+
+<details>
+
+<summary>Halloween</summary>
+
+## Graveyard Cat: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_ad4e2cad924bbb3a2fddf5c527370479.png?size=240&passthrough=true
+
+## Ghosts: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_b9a64088e30fd3a6f2456c2e0f44f173.png?size=240&passthrough=true
+
+## Minions: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_f979ba5f9c2ba83db3149cc02f489f7c.png?size=240&passthrough=true
+
+## Jack-o'-lantern: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_50939e8f95b0ddfa596809480b0eb3e1.png?size=240&passthrough=true
+
+</details>
+
+<details>
+
+<summary>Fall</summary>
+
+## Autumn Leavs: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_5087f7f988bd1b2819cac3e33d0150f5.png?size=240&passthrough=true
+
+## Pumpkin Spice: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_145dffeb81bcfff96be683fd9f6db20a.png?size=240&passthrough=true
+
+## Frog Hat: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_4936aa6c33a101b593f9607d48d686ec.png?size=160&passthrough=true
+
+## Fox Hat: 
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d2ef05e4.png?size=160&passthrough=true
+
+</details>
+
+
 
 <details>
 
