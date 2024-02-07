@@ -15,6 +15,40 @@ Here is a list of links for different profile effects you can change it too.
 
 <details>
 
+<summary>Lunar New Year</summary>
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/78730946-e6b4-4f34-810c-5839f63aa3f4)
+
+## Dragon Dance
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/3402d484-90fc-43c8-a844-c24427e001ef)
+
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-06/dragon-dance/intro_02c49bbfe7.png
+
+loop: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-05/dragon-dance/loop.png
+
+## Fortune Flurry
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/513f9ceb-4918-4ce0-969f-5a9a56fc2680)
+
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-01/fortune-flurry/intro.png
+
+loop: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-02/fortune-flurry/loop.png
+
+## Midnight Celebration
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/f120cb2a-d1d3-4de8-b178-9580718e44b0)
+
+frame: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-01/midnight-celebration/frame.png
+
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-01/midnight-celebration/intro.png
+
+fireworks: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-01/midnight-celebration/fireworks.png
+
+</details>
+
+<details>
+
 <summary>Cyberpunk</summary>
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/8d158021-32bb-4930-8ec1-287e749165fc)
