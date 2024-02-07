@@ -4,9 +4,9 @@
 
 <summary>Theme Status On Discord</summary>
 
-Lunar New Year - ✅
+### Lunar New Year - ✅
 
-Cyberpunk - ✅
+### Cyberpunk - ✅
 
 Monsters - ❌
 
@@ -16,13 +16,13 @@ Halloween - ❌
 
 Fall - ❌
 
-Fantasy - ✅
+### Fantasy - ✅
 
-Anime - ✅
+### Anime - ✅
 
 Breakfast - ❌
 
-Disxcore - ✅
+### Disxcore - ✅
 
 </details>
 
