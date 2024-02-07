@@ -37,6 +37,40 @@ idle: https://cdn.discordapp.com/assets/profile_effects/effects/2024-1-18/cyberp
 
 </details>
 
+<summary>Monsters</summary>
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/fb3affe8-326c-48df-a430-6d576f6679be)
+
+## Goozilla
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/a84468a2-6d1c-4a9d-bcb7-4456c8a6d0e2)
+
+intro-claw: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/goozilla/intro-claw.png
+
+intro-slime: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/goozilla/intro-slime.png
+
+loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/goozilla/loop.png
+
+## Heartzilla
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/1edde4a4-e174-4025-a499-8bd5e311b9f5)
+
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-30/heartzilla/intro.png
+
+loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/heartzilla/loop.png
+
+## Monster Pop
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/a1810658-db6f-4e59-95bd-18aecd14e460)
+
+intro-glass: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-30/monster-pop/intro-glass.png
+
+intro-monster: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-30/monster-pop/intro-monster.png
+
+loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/monster-pop/loop.png
+
+</details>
+
 <details>
 <summary>Winter Wonderland </summary>
 
@@ -176,39 +210,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/l
 
 <details>
 
-<summary>Monsters</summary>
 
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/fb3affe8-326c-48df-a430-6d576f6679be)
-
-## Goozilla
-
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/a84468a2-6d1c-4a9d-bcb7-4456c8a6d0e2)
-
-intro-claw: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/goozilla/intro-claw.png
-
-intro-slime: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/goozilla/intro-slime.png
-
-loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/goozilla/loop.png
-
-## Heartzilla
-
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/1edde4a4-e174-4025-a499-8bd5e311b9f5)
-
-intro: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-30/heartzilla/intro.png
-
-loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/heartzilla/loop.png
-
-## Monster Pop
-
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/a1810658-db6f-4e59-95bd-18aecd14e460)
-
-intro-glass: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-30/monster-pop/intro-glass.png
-
-intro-monster: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-30/monster-pop/intro-monster.png
-
-loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/monster-pop/loop.png
-
-</details>
 
 <details>
 
