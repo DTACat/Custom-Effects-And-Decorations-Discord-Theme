@@ -476,6 +476,36 @@ Here is a list of links for different Avatar Decorations you can change it too.
 
 <details>
 
+<summary>Lunar New Year</summary>
+
+## Fan Flourish
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_9d2ff9685be0c668ef6990b0035fac17.png?size=240&passthrough=true
+
+## Lunar Lanterns
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_63b29ec5b1ea6bb01c2251049838d822.png?size=240&passthrough=true
+
+## Firecrackers
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_0f4f1b40921ce680b60007e94427d1f2.png?size=240&passthrough=true
+
+## Dragon's Smile
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_445566ed965b2c1632a5b45c92f32d11.png?size=240&passthrough=true
+
+## Lucky Envelopes
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_1b1df0ae8c2d34afd85da5c22a0d761a.png?size=240&passthrough=true
+
+## Koi Pond
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_50b440810b1bbd89f6284f36d40ad0af.png?size=240&passthrough=true
+
+</details>
+
+<details>
+
 <summary>Cyberpunk</summary>
 
 ## Glitch:
