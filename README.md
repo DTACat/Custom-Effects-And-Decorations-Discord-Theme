@@ -1,5 +1,31 @@
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
 
+<details>
+
+<summary>Theme Status</summary>
+
+Lunar New Year - <code style="color : green">Okay</code>
+
+Cyberpunk - Okay
+
+Monsters - Unable to be Purchased
+
+Winter Wonderland - Unable to be Purchased
+
+Halloween - Unable to be Purchased
+
+Fall - Unable to be Purchased
+
+Fantasy - Okay
+
+Anime - Okay
+
+Breakfast - Unable to be Purchased
+
+Disxcore - Okay
+
+</details>
+
 # Custom Profile Effects
 Displays A Custom Profile Effect, and loops any default Effect.
 
@@ -108,7 +134,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-29/monst
 </details>
 
 <details>
-<summary>Winter Wonderland </summary>
+<summary>Winter Wonderland</summary>
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/023f7647-a73e-46e6-be36-5cfb34969d09)
 
