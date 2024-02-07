@@ -6,7 +6,7 @@
 
 Lunar New Year - <code style="color : green">Okay</code>
 
-Cyberpunk - <span style="color: green"> Okay </span>
+Cyberpunk - <font color="green"> Some green text </font>
 
 Monsters - Unable to be Purchased
 
