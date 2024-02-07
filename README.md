@@ -8,19 +8,19 @@
 
 ## Cyberpunk - ✅
 
-Monsters - ❌
+## Monsters - ❌
 
-Winter Wonderland - ❌
+## Winter Wonderland - ❌
 
-Halloween - ❌
+## Halloween - ❌
 
-Fall - ❌
+## Fall - ❌
 
 ## Fantasy - ✅
 
 ## Anime - ✅
 
-Breakfast - ❌
+## Breakfast - ❌
 
 ## Disxcore - ✅
 
