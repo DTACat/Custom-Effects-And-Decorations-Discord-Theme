@@ -14,7 +14,7 @@ Here is a list of links for different profile effects you can change it too.
 # Discord Official
 
 <details>
-<summary>Winter Wonderland (2023)</summary>
+<summary>Winter Wonderland </summary>
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/023f7647-a73e-46e6-be36-5cfb34969d09)
 
@@ -38,7 +38,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-22/snowy
 
 <details>
 
-<summary>Halloween (2023)</summary>
+<summary>Halloween</summary>
 
 # Halloween
 
