@@ -1,6 +1,6 @@
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
 
-Item Theme Info On Discord
+# Item Theme Info On Discord
 
 (Some Prises/Dates May Not Be Accurate)
 
