@@ -1,0 +1,33 @@
+/**
+ * @name Shop Tweaks
+ * @author DTACat
+ * @version 1.0.0
+ * @description Tweaks the shop a little (i know amazing right).
+ * @source https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme
+ * @website https://sites.google.com/view/goofytests/home-page
+ * @invite 7SBn9qzwxC
+*/
+
+.shopCard__112c2 {
+    scale: 105%
+}
+
+.heroBanner_e16ab1 {
+    display: none;
+}
+
+.strikedPrice__8ff25 {
+    display: none;
+}
+
+.description_fe9f93 {
+    display: none;
+}
+
+.fullPrice__60740 {
+    display: none;
+}
+
+.premiumIcon_a11fa9 {
+    display: none;
+}
