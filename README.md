@@ -4,7 +4,7 @@ Looking for Shop Tweaks? [https://github.com/DTACat/Shop-Tweaks](https://github.
 
 # Item Theme Info On Discord
 
-(Some Prises/Dates May Not Be Accurate)
+(Some Prices/Dates May Not Be Accurate)
 
 | Theme | Status | Added - Removed | Prise Range |
 | --- | --- | --- | --- |
