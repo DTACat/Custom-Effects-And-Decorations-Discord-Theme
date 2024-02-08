@@ -835,5 +835,26 @@ Submit your avatar decoration on the discord server.
 
 https://discord.gg/7SBn9qzwxC
 
+# Shop Tweaks
+
+## With Shop Tweaks
+
+(nitro)
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/98a9fa69-7f84-4c02-aedb-a6571054f826)
+
+(no nitro)
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/68bc3dce-19f8-44ec-bb03-49ff0d0c6f52)
+
+## Without Shop Tweaks
+
+(nitro)
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/33bdbf68-6f3f-4cf4-bb44-46f1f341049b)
+
+(no nitro)
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/f1a29af0-1538-4608-99e5-dc4ba8bbda5c)
 
 
