@@ -845,7 +845,7 @@ https://discord.gg/7SBn9qzwxC
 
 (no nitro)
 
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/68bc3dce-19f8-44ec-bb03-49ff0d0c6f52)
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/633e7f48-3536-4c0a-985b-d79677859cd6)
 
 ## Without Shop Tweaks
 
@@ -855,6 +855,4 @@ https://discord.gg/7SBn9qzwxC
 
 (no nitro)
 
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/f1a29af0-1538-4608-99e5-dc4ba8bbda5c)
-
-
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/cc15f3cd-5107-4562-9b90-5bb59fc1e8eb)
