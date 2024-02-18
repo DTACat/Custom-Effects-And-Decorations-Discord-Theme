@@ -153,7 +153,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/2023-11-22/snowy
 
 <summary>Halloween</summary>
 
-# Halloween
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/33e5ca81-cd95-4f9a-aeec-54c18323cc6f)
 
 Fright and delight your friends, strangers and friendly strangers.
 
@@ -229,7 +229,7 @@ loop: https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghos
   
 <summary>Fall</summary>
 
-# Fall
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/652f9d2b-21f5-45f3-806f-5310f5a4a938)
 
 There’s a calm and cosy vibe in the air.
 
