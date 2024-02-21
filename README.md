@@ -8,7 +8,8 @@ Looking for Shop Tweaks? [https://github.com/DTACat/Shop-Tweaks](https://github.
 
 | Theme | Status | Added - Removed | Prise Range |
 | --- | --- | --- | --- |
-| Lunar New Year | 14Days Left In Shop | February 2024 - N/A | US$4.99 - US$5.99 |
+| Elements | Okay (New) | February 2024 - N/A | US$4.99 - US$5.99 |
+| Lunar New Year | 14 Days Left In Shop | February 2024 - N/A | US$4.99 - US$5.99 |
 | Cyberpunk | Okay | February 2024 - N/A | US$4.99 - US$5.99 |
 | Monsters | Unable to be Perchased | January 2024 - February 2024 | US$3.99 - US$4.99 |
 | Winter Wonderland | Unable to be Perchased | December 2023 - January 2024 | US$3.99 - US$4.99 |
@@ -31,6 +32,38 @@ Here is a list of links for different profile effects you can change it too.
 
   
 # Discord Official
+
+<details>
+
+<summary>Elements (New)</summary>
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/07684381-6e21-4405-9130-1d1fb6a5d02f)
+
+## Rock Slide 
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/f5518227-da7c-4ec1-9ffe-6f4eb545bc2a)
+
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/rock-slide/intro.png
+
+idle: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/rock-slide/idle.png
+
+## Vortex
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/55a61d16-ae82-4f8a-a6c0-ec41a67d5607)
+
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/vortex/intro.png
+
+idle: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/vortex/idle.png
+
+## Mastery
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/1502e9a5-ce21-4382-8e77-8eedfaebc2b7)
+
+intro: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/mastery/intro.png
+
+idle: https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/mastery/idle.png
+
+</details>
 
 <details>
 
@@ -491,7 +524,37 @@ Here is a list of links for different Avatar Decorations you can change it too.
 
 <details>
 
-<summary>Lunar New Year (New)</summary>
+<summary>Elements (New)</summary>
+
+## Fire
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_a065206df7b011a5510e4e5bca7d49be.png?size=240&passthrough=true
+
+## Water
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_250640ab00a8837a1d56f35879138177.png?size=240&passthrough=true
+
+## Air
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_554b7c34f7b6c709f19535aacb128e7b.png?size=240&passthrough=true
+
+## Earth
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_fa014594d4b2b4249e1098c0adc85b47.png?size=240&passthrough=true
+
+## Lightning
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_365eed4178528fe8293c4212e8e2d5cb.png?size=240&passthrough=true
+
+## Balance
+
+https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=240&passthrough=true
+
+</details>
+
+<details>
+
+<summary>Lunar New Year</summary>
 
 ## Fan Flourish
 
@@ -521,7 +584,7 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_50b440810b1bbd89f6284f36d
 
 <details>
 
-<summary>Cyberpunk (New)</summary>
+<summary>Cyberpunk</summary>
 
 ## Glitch:
 
