@@ -1,5 +1,3 @@
-# Custom Effects & Decoration Does not work at the moment, we are working on a fix as we speak
-
 Looking for Shop Tweaks? [https://github.com/DTACat/Shop-Tweaks](https://github.com/DTACat/Shop-Tweaks)
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
@@ -11,7 +9,7 @@ Looking for Shop Tweaks? [https://github.com/DTACat/Shop-Tweaks](https://github.
 | Theme | Status | Added - Removed | Prise Range |
 | --- | --- | --- | --- |
 | Elements | Okay | February 2024 - N/A | US$4.99 - US$5.99 |
-| Lunar New Year | 11 Days Left In Shop | February 2024 - N/A | US$4.99 - US$5.99 |
+| Lunar New Year | 9 Days Left In Shop | February 2024 - N/A | US$4.99 - US$5.99 |
 | Cyberpunk | Okay | February 2024 - N/A | US$4.99 - US$5.99 |
 | Monsters | Unable to be Perchased | January 2024 - February 2024 | US$3.99 - US$4.99 |
 | Winter Wonderland | Unable to be Perchased | December 2023 - January 2024 | US$3.99 - US$4.99 |
