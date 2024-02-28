@@ -1,4 +1,4 @@
-# Discord pushed an update that. Broke vencord? i dont knwo if it actually did, or if Custom-Effects-And-Decorations is actualy broken but this is your warning if it is broken.
+# Discord pushed an update that. Broke vencord? i dont know if it actually did, or if Custom-Effects-And-Decorations is actualy broken but this is your warning if it is broken.
 
 Looking for Shop Tweaks? [https://github.com/DTACat/Shop-Tweaks](https://github.com/DTACat/Shop-Tweaks)
 
