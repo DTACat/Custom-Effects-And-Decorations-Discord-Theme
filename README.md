@@ -9,7 +9,7 @@ Looking for Shop Tweaks? [https://github.com/DTACat/Shop-Tweaks](https://github.
 | Theme | Status | Added - Removed | Price Range |
 | --- | --- | --- | --- |
 | Elements | Okay | February 2024 - N/A | US$4.99 - US$5.99 |
-| Lunar New Year | Last Day to Buy | February 2024 - N/A | US$4.99 - US$5.99 |
+| Lunar New Year | Unable to be Perchased | February 2024 - N/A | US$4.99 - US$5.99 |
 | Cyberpunk | Okay | February 2024 - N/A | US$4.99 - US$5.99 |
 | Monsters | Unable to be Perchased | January 2024 - February 2024 | US$3.99 - US$4.99 |
 | Winter Wonderland | Unable to be Perchased | December 2023 - January 2024 | US$3.99 - US$4.99 |
