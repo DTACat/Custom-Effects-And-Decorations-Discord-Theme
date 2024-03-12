@@ -820,39 +820,51 @@ https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df08
 
 blue: https://cdn.discordapp.com/avatar-decoration-presets/a_d3da36040163ee0f9176dfe7ced45cdc.png?size=240&passthrough=true
 
-yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172419779945050153/DISXCOREHeadset_Yellow.gif
+yellow: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_23309e19e3396c5e0b15583caf969417.png?size=240&passthrough=true
 
-purple: https://cdn.discordapp.com/attachments/1136130967128514613/1172419780234465360/DISXCOREHeadset_Perple.gif
+purple: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_87b1052cdc7d46a00a699ef2b76cbfa4.png?size=240&passthrough=true
 
 ## Futuristic UI
 
-blue: https://cdn.discordapp.com/attachments/1136130967128514613/1172422277896359968/Blue_UI.gif
+blue: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_fbe9b75665ee364ff5759d8821d52373.png?size=240&passthrough=true
 
-yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172422278248665120/Yellow_UI.gif
+yellow: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_6b729e0b276ed0ad71d2e81c2c1732f3.png?size=240&passthrough=true
 
 purple: https://cdn.discordapp.com/avatar-decoration-presets/a_fed43ab12698df65902ba06727e20c0e.png?size=240&passthrough=true
 
 ## Smoke
 
-blue (Broken): https://cdn.discordapp.com/attachments/1136130967128514613/1172424441016373258/Smoke_Blue.gif
+blue : https://cdn.discordapp.com/avatar-decoration-presets/v3_a_6bf24f16330d65de9a7b686a8c55d48d.png?size=240&passthrough=true
 
 yellow: https://cdn.discordapp.com/avatar-decoration-presets/a_10b9f886b513b77ccdd67c8784f1a496.png?size=240&passthrough=true
 
-purple (Broken): https://cdn.discordapp.com/attachments/1136130967128514613/1172424440634683474/Smoke_Purple.gif
+purple: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_2135f24a35ce3606677ceecca5a502cc.png?size=240&passthrough=true
 
-## Saw (Re-Make)
+## Saw
 
-image: https://cdn.discordapp.com/attachments/1136130967128514613/1172431215870091285/Saw.png
+saw: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_9cd7e573f48859a995266a0a8345f336.png?size=240&passthrough=true
 
-## Sparkle Ring (Re-Make)
+## Sparkle Ring
 
-blue: https://cdn.discordapp.com/attachments/1136130967128514613/1172659569709822132/Sparkle_Ring_Blue.png
+blue: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_88765df09a036906b376704bd8dc27ba.png?size=240&passthrough=true
 
-yellow: https://cdn.discordapp.com/attachments/1136130967128514613/1172660098498306138/Sparkle_Ring_Yellow.png
+yellow: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_5aa45e649f5f8ed3a10784bf83d63945.png?size=240&passthrough=true
 
-purplr: https://cdn.discordapp.com/attachments/1136130967128514613/1172660098276003900/Sparkle_Ring_Purple.png
+purple: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_898d52a79941712fd34b9218e0d80837.png?size=240&passthrough=true
 
-Sorry, can't get all of them :(
+## Helmet
+
+blue1: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_bb31faaec1be1ef5ff32dcdc5f37efbf.png?size=240&passthrough=true
+
+blue2: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_b9a2121138d6b16b3310f349794af0e1.png?size=240&passthrough=true
+
+yellow1: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_96f06e3e52bbd906f93951e362c38d32.png?size=240&passthrough=true
+
+yellow2: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_2efbb7db0d4e12acacbce419166115de.png?size=240&passthrough=true
+
+purple1: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_3c8344f05cc053e27bc7a3ea47412679.png?size=240&passthrough=true
+
+purple2: https://cdn.discordapp.com/avatar-decoration-presets/v3_a_424582087fdf527e3ad8383fd7654f21.png?size=240&passthrough=true
 
 </details>
 
