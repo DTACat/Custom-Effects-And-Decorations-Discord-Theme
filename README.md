@@ -1,24 +1,35 @@
-Looking for Shop Tweaks? [https://github.com/DTACat/Shop-Tweaks](https://github.com/DTACat/Shop-Tweaks)
-
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
 
 # Item Categories Info On Discord
 
-(Some Prices/Dates May Not Be Accurate)
+(Some Dates May Not Be Accurate)
 
-| Theme | Status | Added - Removed | Price Range |
-| --- | --- | --- | --- |
-| AnimeV2 | Okay | March 2024 - N/A | US$4.99 - US$5.99 |
-| Elements | Okay | February 2024 - N/A | US$4.99 - US$5.99 |
-| Lunar New Year | Unable to be Perchased | February 2024 - March 2024 | US$4.99 - US$5.99 |
-| Cyberpunk | Okay | February 2024 - N/A | US$4.99 - US$5.99 |
-| Monsters | Unable to be Perchased | January 2024 - February 2024 | US$3.99 - US$4.99 |
-| Winter Wonderland | Unable to be Perchased | December 2023 - January 2024 | US$3.99 - US$4.99 |
-| Halloween | Unable to be Perchased | October 2023 - November 2023 | US$2.99 - US$7.99 |
-| Fall | Unable to be Perchased | October 2023 - November 2023 | N/A (Forgot) |
-| Fantasy | Okay | September 2023 - N/A | US$6.99 - US$11.99 |
-| Anime | Okay | September 2023 - N/A | US$5.49 - US$11.99 |
-| Breakfast | Unable to be Perchased | September 2023 - February 2024 | US$2.99 - US$11.99 |
-| Disxcore | Okay | September 2023 - N/A | US$10/month |
+| Categories | Status | Added - Removed |
+| --- | --- | --- |
+| AnimeV2 | Okay | March 2024 - N/A |
+| Elements | Okay | February 2024 - N/A |
+| Lunar New Year | Unable to be Perchased | February 2024 - March 2024 |
+| Cyberpunk | Okay | February 2024 - N/A |
+| Monsters | Unable to be Perchased | January 2024 - February 2024 |
+| Winter Wonderland | Unable to be Perchased | December 2023 - January 2024 |
+| Halloween | Unable to be Perchased | October 2023 - November 2023 |
+| Fall | Unable to be Perchased | October 2023 - November 2023 |
+| Fantasy | Okay | September 2023 - N/A |
+| Anime | Okay | September 2023 - N/A |
+| Breakfast | Unable to be Perchased | September 2023 - February 2024 |
+| Disxcore | Okay | September 2023 - N/A |
 
-This is currently under construction, we are working on something much better, just wait and see.
+# A NEW CLEANER WAY TO GET LINKS IS HERE
+[Shop Archives](https://dtacat.github.io/Collectibles/)
+
+Shop Archives has a familiar feel and looks just like the Official Discord Shop.
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/583deb67-3bb9-4c41-8228-b4ecf38dc209)
+
+Shop Archives lists almost all collectables all the way back from March 2022 to now.
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/621a1fe4-fde4-4097-bd37-c476bf963c1e)
+
+Shop Archives will be constantly updated so you wont miss out on all new the collectables.
+
+![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/0a15f6a1-0871-432b-afc5-c7c36e5f4ed0)
