@@ -33,3 +33,5 @@ Shop Archives lists almost all collectables all the way back from March 2022 to 
 Shop Archives will be constantly updated so you wont miss out on all new the collectables.
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/0a15f6a1-0871-432b-afc5-c7c36e5f4ed0)
+
+If for some reason you still want the old list, [here](https://github.com/DTACat/CEAD-old).
