@@ -1,6 +1,8 @@
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
 
-This is only Client Side, meaning only you will be able to see it
+This is only Client Side, meaning only you will be able to see it.
+
+[How to use](https://youtu.be/y3nOlQpY3uQ)
 
 # Item Categories Info On Discord
 
