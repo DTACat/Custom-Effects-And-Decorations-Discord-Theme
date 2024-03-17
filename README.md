@@ -1,7 +1,6 @@
-## [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme)
 ![Logo (35)](https://github.com/DTACat/DTACat/assets/141873540/06616e9f-b23f-4e25-8322-f6e6bf6031be)
 
-### [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) is a theme for [Discord](https://discord.com) that allows you to have any Discord Official (even your own) Avatar Decorations And Profile Effects all for free!
+### Custom Effects And Decorations is a theme for [Discord](https://discord.com) that allows you to have any Discord Official (even your own) Avatar Decorations And Profile Effects all for free!
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
 
