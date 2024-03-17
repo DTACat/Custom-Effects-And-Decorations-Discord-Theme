@@ -3,32 +3,11 @@
 
 ### [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) is a theme for [Discord](https://discord.com) that allows you to have any Discord Official (even your own) Avatar Decorations And Profile Effects all for free!
 
-![Logo (37)](https://github.com/DTACat/DTACat/assets/141873540/e254a237-143d-40c0-a028-e4c466c08095)
-
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
 
 This is only Client Side, meaning only you will be able to see it.
 
 [How to use](https://youtu.be/y3nOlQpY3uQ)
-
-# Item Categories Info On Discord
-
-(Some Dates May Not Be Accurate)
-
-| Categories | Status | Added - Removed |
-| --- | --- | --- |
-| AnimeV2 | Okay | March 2024 - N/A |
-| Elements | Okay | February 2024 - N/A |
-| Lunar New Year | Not In Store | February 2024 - March 2024 |
-| Cyberpunk | Okay | February 2024 - N/A |
-| Monsters | Not In Store | January 2024 - February 2024 |
-| Winter Wonderland | Not In Store | December 2023 - January 2024 |
-| Halloween | Not In Store | October 2023 - November 2023 |
-| Fall | Not In Store | October 2023 - November 2023 |
-| Fantasy | Okay | September 2023 - N/A |
-| Anime | Okay | September 2023 - N/A |
-| Breakfast | Not In Store | September 2023 - February 2024 |
-| Disxcore | Okay | September 2023 - N/A |
 
 Previews:
 
@@ -52,3 +31,23 @@ Shop Archives will be constantly updated so you wont miss out on all the new col
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/0a15f6a1-0871-432b-afc5-c7c36e5f4ed0)
 
 If for some reason you still want the old list, [here](https://github.com/DTACat/CEAD-old).
+
+# Item Categories Info On Discord
+
+(Some Dates May Not Be Accurate)
+
+| Categories | Status | Added - Removed |
+| --- | --- | --- |
+| AnimeV2 | Okay | March 2024 - N/A |
+| Elements | Okay | February 2024 - N/A |
+| Lunar New Year | Not In Store | February 2024 - March 2024 |
+| Cyberpunk | Okay | February 2024 - N/A |
+| Monsters | Not In Store | January 2024 - February 2024 |
+| Winter Wonderland | Not In Store | December 2023 - January 2024 |
+| Halloween | Not In Store | October 2023 - November 2023 |
+| Fall | Not In Store | October 2023 - November 2023 |
+| Fantasy | Okay | September 2023 - N/A |
+| Anime | Okay | September 2023 - N/A |
+| Breakfast | Not In Store | September 2023 - February 2024 |
+| Disxcore | Okay | September 2023 - N/A |
+
