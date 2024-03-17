@@ -7,28 +7,16 @@
 
 This is only Client Side, meaning only you will be able to see it.
 
-[How to use](https://youtu.be/y3nOlQpY3uQ)
+# Tools
+
+### [How to use](https://youtu.be/y3nOlQpY3uQ)
+
+### [Shop Archives](https://dtacat.github.io/Collectibles/) (The list of Discord Collectibles)
 
 Previews:
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/615a5f3c-2c48-4873-8cb0-823dba6f4da8)
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/429d18c4-d0be-4db7-9e9f-61598e8e19a6)
-
-
-# A NEW CLEANER WAY TO GET LINKS IS HERE
-[Shop Archives](https://dtacat.github.io/Collectibles/)
-
-Shop Archives has a familiar feel and looks just like the Official Discord Shop.
-
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/583deb67-3bb9-4c41-8228-b4ecf38dc209)
-
-Shop Archives lists almost all collectables all the way back from March 2022 to now.
-
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/621a1fe4-fde4-4097-bd37-c476bf963c1e)
-
-Shop Archives will be constantly updated so you wont miss out on all the new collectables.
-
-![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/0a15f6a1-0871-432b-afc5-c7c36e5f4ed0)
 
 If for some reason you still want the old list, [here](https://github.com/DTACat/CEAD-old).
 
