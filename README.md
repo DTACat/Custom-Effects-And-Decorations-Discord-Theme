@@ -13,7 +13,7 @@ This is only Client Side, meaning only you will be able to see it.
 
 ### [Shop Archives](https://dtacat.github.io/Collectibles/) (The list of Discord Collectibles)
 
-Previews:
+# Previews
 
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/615a5f3c-2c48-4873-8cb0-823dba6f4da8)
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/429d18c4-d0be-4db7-9e9f-61598e8e19a6)
