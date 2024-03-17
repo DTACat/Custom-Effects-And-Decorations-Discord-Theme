@@ -1,3 +1,10 @@
+## [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme)
+![Logo (35)](https://github.com/DTACat/DTACat/assets/141873540/06616e9f-b23f-4e25-8322-f6e6bf6031be)
+
+### [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) is a theme for [Discord](https://discord.com) that allows you to have any Discord Official (even your own) Avatar Decorations And Profile Effects all for free!
+
+![Logo (37)](https://github.com/DTACat/DTACat/assets/141873540/e254a237-143d-40c0-a028-e4c466c08095)
+
 ![image](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/assets/141873540/4b98f54c-ab33-4468-938c-e4aa17cedd2e)
 
 This is only Client Side, meaning only you will be able to see it.
@@ -12,15 +19,15 @@ This is only Client Side, meaning only you will be able to see it.
 | --- | --- | --- |
 | AnimeV2 | Okay | March 2024 - N/A |
 | Elements | Okay | February 2024 - N/A |
-| Lunar New Year | Unable to be Perchased | February 2024 - March 2024 |
+| Lunar New Year | Not In Store | February 2024 - March 2024 |
 | Cyberpunk | Okay | February 2024 - N/A |
-| Monsters | Unable to be Perchased | January 2024 - February 2024 |
-| Winter Wonderland | Unable to be Perchased | December 2023 - January 2024 |
-| Halloween | Unable to be Perchased | October 2023 - November 2023 |
-| Fall | Unable to be Perchased | October 2023 - November 2023 |
+| Monsters | Not In Store | January 2024 - February 2024 |
+| Winter Wonderland | Not In Store | December 2023 - January 2024 |
+| Halloween | Not In Store | October 2023 - November 2023 |
+| Fall | Not In Store | October 2023 - November 2023 |
 | Fantasy | Okay | September 2023 - N/A |
 | Anime | Okay | September 2023 - N/A |
-| Breakfast | Unable to be Perchased | September 2023 - February 2024 |
+| Breakfast | Not In Store | September 2023 - February 2024 |
 | Disxcore | Okay | September 2023 - N/A |
 
 Previews:
