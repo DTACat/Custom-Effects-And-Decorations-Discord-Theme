@@ -1,36 +1,35 @@
 name: Bug Report
 description: Create a bug report for the theme.
 title: '[Bug Report] Issue Description'
-labels: [unverified bug]
 body:
   - type: checkboxes
     id: check
     attributes:
-      label: Did You Search Other Issues?
-      description: 'Please search other issues FIRST, before continuing.'
+      label: Did you look at other bug repoerts?
+      description: 'Make sure you arnt making a duplicate bug report.'
       options:
-        - label: 'I have checked other issues'
+        - label: 'I have checked other bug reports'
           required: true
   - type: checkboxes
     id: default-theme
     attributes:
-      label: Does This Bug Show On The Default Theme?
-      description: 'Is this issue reproduced on the default theme **with no customizations**?'
+      label: This bug report has nothing to do with Avatar Decorations not showing up?
+      description: 'Make sure you have any Discord Official Avatar Decoration equipped first.'
       options:
-        - label: 'I have reproduced this on the default theme'
+        - label: 'I have a Discord Official Avatar Decoration equipped'
           required: true
   - type: textarea
     id: bug-description
     attributes:
       label: 'Describe The Bug'
-      description: 'Please write a clear and concise description of what the bug is.'
+      description: 'Please write a clear description of what the bug is.'
     validations:
       required: true
   - type: textarea
     id: repro
     attributes:
       label: 'Reproduction Steps'
-      description: 'How do you get to this page? Please walk us through it step by step.'
+      description: 'How do you get this bug? Please walk us through it step by step.'
       value: |
         1.
         2.
