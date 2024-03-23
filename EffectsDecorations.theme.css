@@ -9,37 +9,19 @@
  */
 
 @import url('https://raw.githubusercontent.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/main/src/main.css');
+@import url('https://raw.githubusercontent.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/main/src/banner.css')
 
 :root {
 	/**
 	 * Change the URL below to the link of an image/gif you want to be your profile effect
 	 */
-	--profile-effect-image: url("https://cdn.discordapp.com/attachments/1136130967128514613/1169088009329709166/DTACatEffect.png");
-	--avatar-decoration-image: url("https://cdn.discordapp.com/attachments/1136130967128514613/1169159581109334036/CatEarDeco.png");
+	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/ki-detonate/intro.png");
+	--avatar-decoration-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/ki-detonate/intro.png");
 }
 
 /* User-specific overrides (copy/paste template and replace <unique-username>) */
 [aria-label="<unique-username>"] {
 	/* The URL for the profile effect override this user should have */
 	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png");
-}
-
-/* leave alone */
-.shopForAllBackgroundImage__009d9 {
-  height: 200px;
-  background-image: url(https://raw.githubusercontent.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/main/Images/286791050-4b98f54c-ab33-4468-938c-e4aa17cedd2e.png);
-  background-size: 100%;
-  background-repeat: no-repeat;
-}
-
-.art__23b36 {
-  display: none;
-}
-
-.mainColumn_f44fc2 {
-  display: none;
-}
-
-.ctaButton__7d20c {
-  display: none;
+	--avatar-decoration-image: url("https://cdn.discordapp.com/avatar-decoration-presets/a_c3cffc19e9784f7d0b005eecdf1b566e.png?size=240&passthrough=true");
 }
