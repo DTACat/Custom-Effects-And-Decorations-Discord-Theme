@@ -1,7 +1,7 @@
 /**
  * @name Custom Effects & Decoration
  * @author DTACat, WNTIV
- * @version 2.4.1
+ * @version 2.4.2
  * @description Displays A Custom Profile Effect And Avatar Decoration.
  * @source https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme
  * @website https://sites.google.com/view/goofytests/home-page
@@ -19,7 +19,7 @@
 	/**
 	 * Change the URL below to the link of an image/gif you want to be everyones avatar decoration
 	 */
-	--avatar-decoration-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/ki-detonate/intro.png");
+	--avatar-decoration-image: url("https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=240&passthrough=true");
 }
 
 /* User-specific overrides (copy/paste template and replace <unique-username>) */
