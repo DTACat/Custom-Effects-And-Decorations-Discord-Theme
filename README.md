@@ -25,6 +25,7 @@ If for some reason you still want the old list, [here](https://github.com/DTACat
 
 | Categories | Status | Added - Removed |
 | --- | --- | --- |
+| Springtoons | Okay | March 2024 - N/A |
 | AnimeV2 | Okay | March 2024 - N/A |
 | Elements | Okay | February 2024 - N/A |
 | Lunar New Year | Not In Store | February 2024 - March 2024 |
