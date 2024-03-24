@@ -25,7 +25,7 @@
 }
 
 /* User-specific overrides (copy/paste template and replace <unique-username>) */
-[aria-label="<unique-username>"] {
+[aria-label*="<unique-username>"], [id="popout_28"] {
 	/**
 	 * The URL for the profile effect override this user should have
 	 * Defult is set to Dark Omens
