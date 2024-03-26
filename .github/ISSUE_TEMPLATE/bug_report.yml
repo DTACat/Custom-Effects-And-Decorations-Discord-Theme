@@ -5,7 +5,7 @@ body:
   - type: checkboxes
     id: check
     attributes:
-      label: Did you look at other bug repoerts?
+      label: Did you look at other bug reports?
       description: 'Make sure you arnt making a duplicate bug report.'
       options:
         - label: 'I have checked other bug reports'
