@@ -1,0 +1,6 @@
+This is a list of known issue that wont/cannot be fixed right now.
+
+1 - User-specific overrides Profile Effects not working on large user popout.
+
+2 - Avatar decorations not showing up.
+(Fix: Make sure you have any Discord Official Avatar Decoration equipped first.)
