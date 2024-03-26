@@ -13,7 +13,7 @@ body:
   - type: checkboxes
     id: default-theme
     attributes:
-      label: This bug isnt in /known-issues?
+      label: This bug is not in /known-issues?
       description: 'Make sure you have read /known-issues before reporting.'
       options:
         - label: 'I have a Discord Official Avatar Decoration equipped'
