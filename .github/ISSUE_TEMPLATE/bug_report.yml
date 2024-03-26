@@ -11,13 +11,21 @@ body:
         - label: 'I have checked other bug reports'
           required: true
   - type: checkboxes
-    id: default-theme
+    id: known-issues
     attributes:
       label: This bug is not in /known-issues?
       description: 'Make sure you have read /known-issues before reporting.'
       options:
         - label: 'I have read the known issues and this bug is not in there'
           required: true
+    - type: checkboxes
+    id: this-theme
+    attributes:
+      label: This bug is caused by this theme and this theme only?
+      description: 'Make sure to see if the bug is still there without your other themes.'
+      options:
+        - label: 'I am 100% sure it is this theme'
+          required: false
   - type: textarea
     id: bug-description
     attributes:
