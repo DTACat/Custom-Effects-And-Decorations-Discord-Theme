@@ -13,8 +13,8 @@ body:
   - type: checkboxes
     id: default-theme
     attributes:
-      label: This bug report has nothing to do with Avatar Decorations not showing up?
-      description: 'Make sure you have any Discord Official Avatar Decoration equipped first.'
+      label: This bug isnt in /known-issues?
+      description: 'Make sure you have read /known-issues before reporting.'
       options:
         - label: 'I have a Discord Official Avatar Decoration equipped'
           required: true
