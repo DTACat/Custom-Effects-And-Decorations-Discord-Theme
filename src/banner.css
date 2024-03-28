@@ -1,18 +1,13 @@
-.shopForAllBackgroundImage__009d9 {
-  height: 200px;
-  background-image: url(https://raw.githubusercontent.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/main/Images/286791050-4b98f54c-ab33-4468-938c-e4aa17cedd2e.png);
+.artContainer__394fc {
+  background-image: url(https://raw.githubusercontent.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme/main/Images/Frame%2013.png);
   background-size: 100%;
   background-repeat: no-repeat;
+  margin-top: -20px;
+  margin-left: -10px;
 }
-
 .art__23b36 {
-  display: none;
+    display: none;
 }
-
-.mainColumn_f44fc2 {
-  display: none;
-}
-
-.ctaButton__7d20c {
-  display: none;
+.ctaButton__0d23d {
+    display: none;
 }
