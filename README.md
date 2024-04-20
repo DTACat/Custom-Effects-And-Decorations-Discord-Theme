@@ -26,8 +26,8 @@ If for some reason you still want the old list, [here](https://github.com/DTACat
 
 | Categories | Status | Added - Removed |
 | --- | --- | --- |
-| Lofi | Not In Store | N/A - N/A |
-| Shy | 19 Days Left | March 2024 - N/A |
+| Lofi | Okay | N/A - N/A |
+| Shy | 17 Days Left | March 2024 - N/A |
 | Springtoons | Okay | March 2024 - N/A |
 | AnimeV2 | Okay | March 2024 - N/A |
 | Elements | Okay | February 2024 - N/A |
