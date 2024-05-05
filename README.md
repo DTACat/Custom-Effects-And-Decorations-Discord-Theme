@@ -26,9 +26,11 @@ If for some reason you still want the old list, [here](https://github.com/DTACat
 
 | Categories | Status | Added - Removed |
 | --- | --- | --- |
-| Galaxy | Not In Store | N/A - N/A |
-| Lofi | Okay | April - N/A |
-| Shy | 13 Days Left | March 2024 - N/A |
+| Retro | Not In Store | N/A - N/A |
+| Pirates | Not In Store | N/A - N/A |
+| Galaxy | Okay | May 2024 - N/A |
+| Lofi | Okay | April 2024 - N/A |
+| Shy | 2 Days Left | March 2024 - N/A |
 | Springtoons | Okay | March 2024 - N/A |
 | AnimeV2 | Okay | March 2024 - N/A |
 | Elements | Okay | February 2024 - N/A |
