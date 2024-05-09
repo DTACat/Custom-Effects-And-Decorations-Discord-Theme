@@ -30,7 +30,7 @@ If for some reason you still want the old list, [here](https://github.com/DTACat
 | Pirates | Not In Store | N/A - N/A |
 | Galaxy | Okay | May 2024 - N/A |
 | Lofi | Okay | April 2024 - N/A |
-| Shy | Not In Store | March 2024 - N/A |
+| Shy | Not In Store | March 2024 - May 2024 |
 | Springtoons | Okay | March 2024 - N/A |
 | AnimeV2 | Okay | March 2024 - N/A |
 | Elements | Okay | February 2024 - N/A |
