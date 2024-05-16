@@ -26,8 +26,8 @@ If for some reason you still want the old list, [here](https://github.com/DTACat
 
 | Categories | Status | Added - Removed |
 | --- | --- | --- |
-| Retro | Not In Store | N/A - N/A |
-| Pirates | Not In Store | N/A - N/A |
+| Retro | Okay | May 2024 - N/A |
+| Pirates | Okay | May 2024 - N/A |
 | Galaxy | Okay | May 2024 - N/A |
 | Lofi | Okay | April 2024 - N/A |
 | Shy | Not In Store | March 2024 - May 2024 |
