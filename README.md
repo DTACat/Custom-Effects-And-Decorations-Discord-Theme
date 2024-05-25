@@ -1,4 +1,3 @@
-Works as of stable 290453 (a3c6e6a)
 ![Logo (35)](https://github.com/DTACat/DTACat/assets/141873540/06616e9f-b23f-4e25-8322-f6e6bf6031be)
 
 ### Custom Effects And Decorations is a theme for [Discord](https://discord.com) that allows you to have any Discord Official (even your own) Avatar Decorations And Profile Effects all for free!
@@ -26,6 +25,7 @@ If for some reason you still want the old list, [here](https://github.com/DTACat
 
 | Categories | Status | Added - Removed |
 | --- | --- | --- |
+| Arcade | Not In Store | N/A - N/A |
 | Retro | Okay | May 2024 - N/A |
 | Pirates | Okay | May 2024 - N/A |
 | Galaxy | Okay | May 2024 - N/A |
