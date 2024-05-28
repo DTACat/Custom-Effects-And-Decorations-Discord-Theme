@@ -16,16 +16,16 @@
 	 * Change the URL below to the link of an image/gif you want to be everyones profile effect
 	 * Defult is set to Ki Detonate
 	 */
-	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/ki-detonate/intro.png");
+	--profile-effect-image: url("https://raw.githubusercontent.com/DTACat/Collectibles/main/Archive/feelin-70s-intro-loop.png");
 	/**
 	 * Change the URL below to the link of an image/gif you want to be everyones avatar decoration
 	 * Defult is set to Balance
 	 */
-	--avatar-decoration-image: url("https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=240&passthrough=true");
+	--avatar-decoration-image: url("https://cdn.discordapp.com/avatar-decoration-presets/a_b98093bb7723235a4cd2792762795640.png?size=240&passthrough=true");
 }
 
 /* User-specific overrides (copy/paste template and replace <unique-username>) */
-[aria-label*="<unique-username>"], [id="popout_28"] {
+[aria-label*="<dafuqcatboom_legit_83789>"], [id="popout_28"] {
 	/**
 	 * The URL for the profile effect override this user should have
 	 * Defult is set to Dark Omens
