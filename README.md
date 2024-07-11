@@ -25,9 +25,9 @@ If for some reason you still want the old list, [here](https://github.com/DTACat
 
 | Categories | Status | Added - Removed |
 | --- | --- | --- |
-| Dark Fantasy | Not In Store | N/A - N/A |
-| Tide | Around 20 Days Left | June - N/A |
-| Arcade | Okay | June - N/A |
+| Dark Fantasy | Okay | July 2024 - N/A |
+| Tide | Around 10 Days Left | June 2024 - July 2024 |
+| Arcade | Okay | June 2024 - N/A |
 | Retro | Okay | May 2024 - N/A |
 | Pirates | Okay | May 2024 - N/A |
 | Galaxy | Okay | May 2024 - N/A |
